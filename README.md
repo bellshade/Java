@@ -1,4 +1,4 @@
-# javaAlgorithm
+# JavaAlgorithm
 
 ![license](https://img.shields.io/github/license/bellshade/javaAlgorithm?style=for-the-badge)
 
