@@ -14,6 +14,7 @@ public class Short{
         // -32768 hingga 32767
         // penggunaan memori pada short sedikit lebih banyak dari byte
         // dan lebih kecil dari int
+        
         short angka = 6000;
         System.out.println(angka);
     }
