@@ -10,10 +10,12 @@
 
 public class Long{
     public static void main(String[] args){
-        // long adalah tipe data number yang memiliki value dimulai dari
-        // -9223372036854775808 hingga 9223372036854775807
-        // penggunaan memori pada long paling besar dari pada tipe data number lainnya
-        long angka = 1000000;
-        System.out.println(angka);
+        // pada tipe data long akan mengeluarkan value
+        // yang sangat besar
+        // -9223372036854775808 ke 9223372036854775807
+        // ini digunakan jika value integer tidak mencukupi
+        // pastikan kamu menggunakan L pada akhir value long
+
+        long angka = 150000000L;
     }
 }
