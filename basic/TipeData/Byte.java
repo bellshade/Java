@@ -14,6 +14,7 @@ public class Byte{
         // adalah -128 hingga 127
         // penggunaan memori tipe data bye lebih hemat daripada menggunakan
         // tipe data int
+        
         byte angka = 100;
         System.out.println(angka);
     }
