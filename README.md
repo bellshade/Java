@@ -1,5 +1,6 @@
 # JavaAlgorithm
 
+![javatesting](https://img.shields.io/github/workflow/status/bellshade/Java/build%20java?style=for-the-badge)
 ![license](https://img.shields.io/github/license/bellshade/javaAlgorithm?style=for-the-badge)
 
 Repositori ini berisi kumpulan dari berbagai macam contoh struktur data, algoritma dan komputasi matematika yang diimplementasikan dengan menggunakan bahasa pemrograman Java.
