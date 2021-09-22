@@ -8,7 +8,7 @@
 // boolean  true / false
 // char     'A'
 
-public class Main{
+public class Byte{
     public static void main(String[] args){
         // byte adalah salah satu tipe data yang panjang valuenya
         // adalah -128 hingga 127
