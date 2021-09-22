@@ -16,9 +16,9 @@ jobs:
         ref: ${{ github.head_ref }}
 
     - name: prettier kode java
-      uses: creyD/prettier_action@v4.0
+      uses: creyD/prettier_action@v3.3
       with:
-        prettier_options: --write *.{java}
+        prettier_options: --write **/*.{java}
         commit_message: 'style: prettier kode java'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
