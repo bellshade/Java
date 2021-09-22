@@ -5,7 +5,7 @@
 // integer => float
 
 public class OtomatisCasting{
-    public static void main(string[] args){
+    public static void main(String[] args){
         // pada kasus ini kita akan merubah data tipe integer
         // ke bilangan floating atau berkoma
 
