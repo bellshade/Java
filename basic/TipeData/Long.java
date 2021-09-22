@@ -17,5 +17,6 @@ public class Long{
         // pastikan kamu menggunakan L pada akhir value long
 
         long angka = 150000000L;
+        System.out.println(angka);
     }
 }
