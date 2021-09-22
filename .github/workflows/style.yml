@@ -1,0 +1,24 @@
+name: prettier
+on:
+  pull_request:
+  push:
+    branches:
+    - main
+
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Cek action
+      uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+
+    - name: prettier kode java
+      uses: creyD/prettier_action@v3.3
+      with:
+        prettier_options: --write **/*.{java}
+        commit_message: 'style: prettier kode java'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
