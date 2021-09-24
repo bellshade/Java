@@ -36,6 +36,24 @@ Algoritma harus memiliki:
 - pastikan file ekstensi berupa ``*.java``
 - gunakan snake_case atau CamelCase dalam menamakan Variabel p.s : Var. di Java bersifat *case sensitive*
 
+**contoh penggunaan variabel yang baik pada java**
+kami menyarankan agar menggunakan struktur kode variable pada java seperti dibawah ini
+```java
+public class nama_file{
+    public static void main(String[] args){
+        int angka_saya = 12;
+        double angka_saya_kedua = 13.2f;
+    }
+}
+```
+
+- jika menggunakan kelas (class) kami mengusahakan untuk kapitalisasi
+    ```java
+    class NamaMurid{
+        // kode disini
+    }
+    ```
+
 ## Pull Request
 
 ### Pull Request Yang Baik
