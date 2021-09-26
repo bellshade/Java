@@ -54,6 +54,13 @@ public class nama_file{
     }
     ```
 
+- compile file java
+
+```bash
+javac NamaFile.java
+java NamaFile.java
+```
+
 ## Pull Request
 
 ### Pull Request Yang Baik
