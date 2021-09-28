@@ -70,6 +70,15 @@ java NamaFile.java
 - Untuk pull request merubah diusahakan kamu menerapkan algoritma yang lebih baik dan lebih mudah
 - Setelah merubah, menambah, atau perbaikan dokumentasi, usahakan kamu membuat branch baru
 
+**tambahan perubahan**
+jika ingin menambahkan algoritma atau script java,kamu bisa menambahkan perubahan di folder ``other``. jika terdapat beberapa __file__, sebaiknya __file-file__ tersebut dimasukkan ka dalam satu folder yang sesuai dengan nama __script__ tersebut sebagai contoh
+
+```
+count_bullet_speed
+├── count__bullet_speed.java
+└── file_tambahan.java
+```
+
 ```bash
 git checkout -b <branch_name>
 git add .
