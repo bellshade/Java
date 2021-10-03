@@ -2,3 +2,6 @@
 .vscode
 *.log
 *.sh
+.idea
+IdeaProjects.iml
+out
