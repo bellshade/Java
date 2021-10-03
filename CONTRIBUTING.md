@@ -2,7 +2,7 @@
 
 ## Kontributor
 
-Kami sangat senang anda telah ikut berkontribusi dalam implementasi algortima, struktur data atau memperbaiki error.
+Kami sangat senang anda telah ikut berkontribusi dalam implementasi algoritma, struktur data atau memperbaiki error.
 Semua boleh ikut berkontribusi walaupun hal kecil dengan pengecualian sebagai berikut:
 
 - Hasil pekerjaan kamu adalah buatan kamu sendiri dan tidak ada hak cipta dari orang lain.
@@ -25,7 +25,7 @@ Algoritma harus dikemas sedemikian rupa sehingga memudahkan pembaca untuk memasu
 Algoritma harus memiliki:
 
 - Memiliki nama kelas dan fungsi intuitif yang memperjelas tujuannya bagi pembaca
-- Menggunakan konvensi penamaan Javascript dan nama variabel intuitif untuk memudahkan pemahaman
+- Menggunakan konvensi penamaan Java dan nama variabel intuitif untuk memudahkan pemahaman
 - Fleksibel untuk mengambil nilai input yang berbeda
 - Memiliki docstrings dengan penjelasan yang jelas dan/atau URL ke materi sumber
 - Berisi doctests yang menguji nilai input yang valid dan salah
@@ -39,8 +39,8 @@ Algoritma harus memiliki:
 **contoh penggunaan variabel yang baik pada java**
 kami menyarankan agar menggunakan struktur kode variable pada java seperti dibawah ini
 ```java
-public class nama_file{
-    public static void main(String[] args){
+public class nama_file {
+    public static void main(String[] args) {
         int angka_saya = 12;
         double angka_saya_kedua = 13.2f;
     }
@@ -48,11 +48,11 @@ public class nama_file{
 ```
 
 - jika menggunakan kelas (class) kami mengusahakan untuk kapitalisasi
-    ```java
-    class NamaMurid{
-        // kode disini
-    }
-    ```
+```java
+class NamaMurid {
+    // kode disini
+}
+```
 
 - compile file java
 
