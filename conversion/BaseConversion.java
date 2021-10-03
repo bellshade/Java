@@ -21,20 +21,30 @@ public class BaseConversion {
         StringBuilder result = new StringBuilder();
         for (int i = number; i > 0; i /= base.size()) {
             int reminder = i % base.size();
-            result.append(base.get(reminder));
+            Character reminderChar = base.get(reminder);
+            result.append(reminderChar);
         }
         return result.reverse().toString();
     }
 
     private static List<Integer> toDecimal(List<Character> base, String number) {
         List<Integer> list = new ArrayList<>();
-        int index = 0;
-        for (int i = 0; index < number.length(); i++) {
-            int reverseIndex = (number.length() - 1) - (index++);
-            char currentChar = number.charAt(reverseIndex);
-            int currenCharValue = base.indexOf(currentChar);
-            if (currenCharValue == 0) continue;
-            list.add((int) (currenCharValue * Math.pow(base.size(), i)));
+        int numberLength = number.length();
+
+        for (int iteration = 0; iteration < numberLength; iteration++) {
+            // pengubahan dimulai dari character paling akhir
+            int currentIndex = numberLength - 1 - iteration;
+            char currentChar = number.charAt(currentIndex);
+            int currentCharBaseIndex = base.indexOf(currentChar);
+
+            if (currentCharBaseIndex == 0) continue; // tidak perlu tambahkan angka 0
+
+            // rumus toDecimal:
+            // desimal = ∑(indexDigitPadaBase × ukuranBase ^ jumlahIterasi)
+            // indexDigitPadaBase   = index character pada basis
+            // ukuranBase           = banyaknya angka pada basis
+            // jumlahIterasi        = jumlah iterasi angka
+            list.add((int) (currentCharBaseIndex * Math.pow(base.size(), iteration)));
         }
         return list;
     }
