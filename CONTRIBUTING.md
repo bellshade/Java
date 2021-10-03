@@ -2,7 +2,7 @@
 
 ## Kontributor
 
-Kami sangat senang anda telah ikut berkontribusi dalam implementasi algortima, struktur data atau memperbaiki error.
+Kami sangat senang anda telah ikut berkontribusi dalam implementasi algoritma, struktur data atau memperbaiki error.
 Semua boleh ikut berkontribusi walaupun hal kecil dengan pengecualian sebagai berikut:
 
 - Hasil pekerjaan kamu adalah buatan kamu sendiri dan tidak ada hak cipta dari orang lain.
