@@ -14,3 +14,5 @@ untuk belajar java dari awal kamu bisa dengan belajar basic terlebih dahulu [dis
 ## Quick Access
 Semua *script* yang ada pada repositori ini, dapat diakses dengan cepat lewat link berikut:
 
+## Donasi
+Jika ada ingin mendonasi bisa diberikan lewat [disini](https://saweria.co/bellshade)
