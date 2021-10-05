@@ -89,10 +89,10 @@ git commit -m "add: menambahkan algoritma baru"
 
 ### Saran Pesan Commit
 
-- `add` untuk menambah algoritma atau tambahan lainnya
+- `feat` untuk menambah algoritma atau tambahan lainnya
 - `fix` untuk mengubah algoritma yang sudah ada atau memperbaiki
 - `docs` untuk mengubah atau membuat dokumentasi
-- `style` untuk mengubah atau memperbaiki style kode untuk contohnya bisa dilihat pada commit yang diatas
+- `add` untuk mengubah algoritma atau tambahan lainnya (opsional)
 
 Pull request `merged` jika:
 
