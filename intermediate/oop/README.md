@@ -28,7 +28,7 @@ Orang orang2 = new Orang();
 
 ## Apa itu atribut ?
 Sebenarnya atribut dapat dikatakan sebuah variabel dari sebuah kelas atau bisa juga disebut dengan fields
-
+Atribut dapat diakses dengan membuat obyek dari sebuah kelas, lalu menggunakan syntax titik ( . )
 contohnya seperti ini
 
 pada kelas Rumah terdapat atribut kamar_mandi dan kamar_tidur
@@ -36,5 +36,12 @@ pada kelas Rumah terdapat atribut kamar_mandi dan kamar_tidur
 class Rumah() {
     int kamar_tidur;
     int kamar_mandi;
+}
+
+class Main() {
+    public static void main(String[] args) {
+        Rumah rumahSaya = new Rumah();
+        System.out.println(rumahSaya.kamar_tidur);
+    }
 }
 ```
