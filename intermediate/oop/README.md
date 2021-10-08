@@ -26,7 +26,7 @@ Orang orang1 = new Orang();
 Orang orang2 = new Orang();
 ```
 
-## Apa itu atribut ?
+## Apa itu atribut?
 Sebenarnya atribut dapat dikatakan sebuah variabel dari sebuah kelas atau bisa juga disebut dengan fields
 Atribut dapat diakses dengan membuat obyek dari sebuah kelas, lalu menggunakan syntax titik ( . )
 contohnya seperti ini
@@ -44,4 +44,40 @@ class Main() {
         System.out.println(rumahSaya.kamar_tidur);
     }
 }
+```
+
+## Apa itu method?
+Method adalah sebuah fungsi yang terdapat di dalam kelas pada Java. Sama seperti attribute 
+untuk mengakses method bisa menggunakan nama object lalu diikuti tanda titik dan nama 
+methodnya dan di akhiri dengan tanda kurung ().
+
+Berikut cara pembuatan method di java.
+```java
+class Orang {
+    // berikut cara pembuatan method pada class di Java
+    void hello() {
+        System.out.println("Hello Bellshade!");
+    }
+    void belajar() {
+        System.out.println("Aku sedang belajar Java OOP!");
+    }
+
+    // cara pembuatan method dengan return type String
+    String bellshade() {
+        return "https://github.com/bellshade/Java";
+    }
+}
+```
+Dan ini contoh cara mengakses method di java
+```java
+public class KelasDanMethod {
+    public static void main(String[] args) {
+        Orang orang = new Orang();
+        orang.hello();
+        orang.belajar();
+        String bellshade = orang.bellshade();
+        System.out.println(orang.bellshade());
+    }
+}
+
 ```
