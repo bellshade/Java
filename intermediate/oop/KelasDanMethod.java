@@ -1,4 +1,4 @@
-class Orang {
+class People {
     // berikut cara pembuatan method pada class di Java
     void hello() {
         System.out.println("Hello Bellshade!");
@@ -17,20 +17,20 @@ public class KelasDanMethod {
     public static void main(String[] args) {
         // inisiasi object orang dari kelas Orang;
         // untuk cara inisiasi object bisa di baca di file README.md
-        Orang orang = new Orang();
+        People people = new People();
 
         // menjalankan method hello dari object orang
-        orang.hello();
+        people.hello();
         // memanggil method belajar dari object orang
-        orang.belajar();
+        people.belajar();
 
         // memanggil method yang memiliki return type
         // untuk bisa memanggil method yang memiliki return type
         // harus di masukkan ke dalam variable
 
-        String bellshade = orang.bellshade();
+        String bellshade = people.bellshade();
 
         // atau bisa di print langsung di console
-        System.out.println(orang.bellshade());
+        System.out.println(people.bellshade());
     }
 }

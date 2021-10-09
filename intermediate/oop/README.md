@@ -53,7 +53,7 @@ methodnya dan di akhiri dengan tanda kurung ().
 
 Berikut cara pembuatan method di java.
 ```java
-class Orang {
+class People {
     // berikut cara pembuatan method pada class di Java
     void hello() {
         System.out.println("Hello Bellshade!");
@@ -72,11 +72,11 @@ Dan ini contoh cara mengakses method di java
 ```java
 public class KelasDanMethod {
     public static void main(String[] args) {
-        Orang orang = new Orang();
-        orang.hello();
-        orang.belajar();
-        String bellshade = orang.bellshade();
-        System.out.println(orang.bellshade());
+        People people = new People();
+        people.hello();
+        people.belajar();
+        String bellshade = people.bellshade();
+        System.out.println(people.bellshade());
     }
 }
 
