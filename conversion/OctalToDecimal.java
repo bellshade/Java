@@ -17,10 +17,10 @@ public class OctalToDecimal {
 
     /**
      * fungsi yang akan merubah dari bilangan Octal ke Decimal
-     * @param angka {@code Integer}
-     * @return desimal {@code Integer}
+     * @param angka {@code int}
+     * @return desimal {@code int}
      */
-    public static Integer octalToDecimal(int angka) {
+    public static int octalToDecimal(int angka) {
         int modSisa, desimal = 0,power = 0;
 
         // ulangi hingga nilai modular 10 tidak lebih dari 0
