@@ -34,7 +34,7 @@ public class JavaPolimorpis{
 
     // menampilkan isi dari kelas
     SuaraHewanVar.SuaraHewan();
-    SuaraKucing.SuaraHewan();
+    // SuaraKucing.SuaraHewan();
     SuaraSapi.SuaraHewan();
   }
 }
