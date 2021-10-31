@@ -29,7 +29,7 @@ public class JavaPolimorpis{
     // mendklarasi variabel terbaru
     // dari kelas hewan, berupa kucing , dan sapi
     Hewan SuaraHewanVar = new Hewan();
-    Hewan SuaraKucing = new Kucing();
+    // Hewan SuaraKucing = new Kucing();
     Hewan SuaraSapi = new Sapi();
 
     // menampilkan isi dari kelas
