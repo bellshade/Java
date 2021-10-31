@@ -8,11 +8,11 @@ class Hewan{
 
 // membuat kelas dari suara kucing dengan turunan dari
 // kelas hewan
-class Kucing extends Hewan{
-  public void SuaraHewan(){
-    System.out.println("kucing: miaw miaw");
-  }
-}
+// class Kucing extends Hewan{
+//  public void SuaraHewan(){
+//    System.out.println("kucing: miaw miaw");
+//  }
+//}
 
 // membuat kelas dari suara sapi dengan turunan dari
 // kelas hewan
