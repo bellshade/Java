@@ -1,5 +1,6 @@
 # Deskripsi (Description)
 <!-- Deskripsikan tentang perubahan yang kamu berikan. -->
+<!-- jelaskan secara detail tentang perubahan yang kamu berikan. -->
 
 
 # Checklist:
@@ -19,7 +20,6 @@ Saya menggunakan (I'm using):
 
 - ``os`` = ``linux / windows / macOS``
 - ``java`` = ``javac -V (unix) / javac -V ( windows )``
-<!-- Kami menggunakan Python versi 3 dan tidak menyarankan untuk menggunakan Python 2. -->
 
 <!-- Jika ada gagal pada salah satu test, kami akan mengeceknya kembali. -->
 <!-- If there is a failure in one of the tests, we will check it again. -->
