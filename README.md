@@ -1,5 +1,6 @@
 # JavaAlgorithm
 
+[![discord](https://img.shields.io/discord/722002048643497994?logo=discord&logoColor=white&style=for-the-badge)](http://discord.gg/S4rrXQU)
 ![javatesting](https://img.shields.io/github/workflow/status/bellshade/Java/build%20java?style=for-the-badge)
 ![license](https://img.shields.io/github/license/bellshade/javaAlgorithm?style=for-the-badge)
 
