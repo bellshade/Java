@@ -40,13 +40,13 @@ pull_request_rules:
           - "@bellshade/jvm-team"
 
   # testing kalo semua sudah siap dan di merge
-  - name: prosedur ganti label ketika ready-to-merge
+  - name: testing kalo sudah direview
     conditions:
       - label=ready-to-merge
-      actions:
-        label:
-          add:
-            - sudah direview
-          remove:
-            - request docs team untuk review
-            - request tim java untuk review
+    actions:
+      label:
+        add:
+          - sudah direview
+        remove:
+          - request docs team untuk review
+          - request tim java untuk review
