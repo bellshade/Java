@@ -49,7 +49,7 @@ Jika kalian sudah menguasai dasar - dasar pemograman berserta dengan paradigma *
 
 ## 📃 Panduan Pengunaan 📃
 Seluruh kode yang tersedia pada repositori ini dapat kalian jalankan dengan melakukan kompilasi terlebih dahulu. <br>
-Kami menyarankan untuk menggunakan *compiler* `g++` yang dapat kalian dapatkan di [sini]() dan tutorial instalasi [berikut](). <br>
+Kami menyarankan untuk menggunakan *compiler* `java` yang dapat kalian dapatkan di [sini]() dan tutorial instalasi [berikut](). <br>
 Untuk melakukan kompilasi, buka terminal pada folder kode yang ingin kalian *compile* lalu jalankan perintah
 ```
 Terminal/Bash/CMD
