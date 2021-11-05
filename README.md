@@ -28,7 +28,7 @@ mengakomodasikan hampir seluruh fitur penting bahasa pemrograman lain.
 > Untuk menggunakan repositori dengan maksimal, kalian perlu belajar programming dasar dahulu. Silahkan ikuti alur belajar berikut untuk mempelajari dasar - dasar pemograman langsung menggunakan Java
 
 | Langkah | Topik | Target Pembelajaran |
-| :-----------: | :----------------------------------------: |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+| :-----------: | :----------------------------------------: |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 01 | Introduksi Pemograman dan Java | Memahami apa itu membuat program dan apa peran Java dalam proses pembuatan program |
 | 02 | Variabel dan Tipe Data | Memahami apa itu variabel dan tipe data berserta dengan perannya terhadap memori dan pointer |
 | 03 | Operasi Aritmatik | Dapat melakukan operasi aritmatika sederhana menggunakan program yang ditulis menggunakan Java |
@@ -54,7 +54,7 @@ Untuk melakukan kompilasi, buka terminal pada folder kode yang ingin kalian *com
 Terminal/Bash/CMD
 Javac source_code.java
 Java source_code.class
-       **ATAU**
+        ATAU
 Java source_code
 ```
 (**Pastikan selalu memperhatikan** _source-code_ **nya dikarenakan Compiler Java bersifat** _case-sensitive_.)
