@@ -1,4 +1,5 @@
 # Bellshade Java
+![image](https://github.com/bellshade/PHP/blob/main/assets/images/logo.png)
 > Part of Bellshade Project, managed by [WPU Discord Community](http://discord.gg/S4rrXQU) <br>
 > WPU Community is the fastest growing software developer forum initiated by [Mr. Sandhika Galih](https://www.youtube.com/c/WebProgrammingUNPAS)
 
@@ -40,7 +41,7 @@ mengakomodasikan hampir seluruh fitur penting bahasa pemrograman lain.
 | 09 | Fungsi | Mengenal konsep fungsi dalam teknik pemograman |
 
 Setelah menyelesaikan seluruh rangkaian pengenalan dasar - dasar pemograman, kalian dapat mulai untuk mempelajari topik - topik lain yang jauh lebih seru!
-Untuk sekarang, mulai saja dulu dengan [Object Oriented Programming]()
+Untuk sekarang, mulai saja dulu dengan [Object Oriented Programming](intermediate/oop/)
 
 ## 🎓 Topik Lanjutan 🎓
 Jika kalian sudah menguasai dasar - dasar pemograman berserta dengan paradigma *Object Oriented Programming*, kalian bisa langsung mengeksplorasi topik - topik lain yang jauh lebih menantang dan tidak kalah seru. Di repositori ini, kami telah menyiapkan beberapa topik yang mungkin kamu suka.
