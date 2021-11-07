@@ -71,9 +71,10 @@ Jika masih bingung gimana cara _mengcompile_ atau menjalankan program Java bisa 
 ## ⚡ Quick Access ⚡
 Semua *script* yang ada pada repositori ini, dapat diakses dengan cepat lewat link berikut:
 - [Basic](basic/)
-- [Backtracking](backtracking/)
-- [Sorting](sorting)
-- [Object Orienter Programing](intermediate/oop/)
+- [Algoritma Java](algorthm/)
+- [Lanjutan](intermediate/)
+- [Utilitas pada Java](utilities/)
+- [Object Oriented Programing](intermediate/oop/)
 
 ## 🤩 Ayo ikut kami dan berkontribusi! 🤩 
 Bantuan kalian diperlukan! Untuk Bellshade dapat lebih jauh lagi membantu anak - anak Indonesia belajar *programming*, kita butuh tenaga kalian.
