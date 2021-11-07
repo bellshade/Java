@@ -25,15 +25,17 @@ Sejarah Singkat mengenai Java: Pada tahun 1991, Sun Microsystems menawarkan proj
 
 | Langkah |             Topik             |                                      Target Pembelajaran                                      | Video Rujukan |
 | :-----: | :---------------------------: | :-------------------------------------------------------------------------------------------: | :-----------: |
-|   01    | Introduksi Pemograman dan Java |       Memahami apa itu membuat program dan apa peran Java dalam proses pembuatan program       |   [Video]()   |
-|   02    |    Variabel dan Tipe Data     | Memahami apa itu variabel dan tipe data berserta dengan perannya terhadap memori dan pointer  |   [Video]()   |
-|   03    |       Operasi Aritmatik       | Dapat melakukan operasi aritmatika sederhana menggunakan program yang ditulis menggunakan Java |   [Video]()   |
-|   04    |        Operasi Boolean        |                 Mengenal operasi boolean dan perannya dalam proses pemograman                 |   [Video]()   |
-|   05    |         Pengkondisian         |      Memahami salah satu dari inti dari membuat pemograman yaitu melakukan pengkondisian      |   [Video]()   |
-|   06    |          Perulangan           |                Memahami inti kedua dari pemograman yaitu melakukan perulangan                 |   [Video]()   |
-|   07    |         Konsep Array          |          Memahami konsep Array dan mencoba untuk mengimplemntasikannya dalam program          |   [Video]()   |
-|   08    |      Array Multi-dimensi      |     Mengenal berbagai macam konsep array multi-dimensi dan implementasinya dalam program      |   [Video]()   |
-|   09    |            Fungsi             |                        Mengenal konsep fungsi dalam teknik pemograman                         |   [Video]()   |
+|   01    | Introduksi Pemograman dan Java |       Memahami apa itu membuat program dan apa peran Java dalam proses pembuatan program       |   [Video](https://youtu.be/uHyfQV0kbgo)   |
+|   02    |    Variabel dan Tipe Data     | Memahami apa itu variabel dan tipe data berserta dengan perannya terhadap memori dan pointer  |   [Video](https://youtu.be/OrgFwUl2tzQ)   |
+|   03    |       Operasi Aritmatika       | Dapat melakukan operasi aritmatika sederhana menggunakan program yang ditulis menggunakan Java |   [Video](https://youtu.be/FlbBdWUC0YU)   |
+|   04    |        Operasi Boolean        |                 Mengenal operasi boolean dan perannya dalam proses pemograman                 |   [Video](https://youtu.be/wOnpqaWVM3E)   |
+|   05    |         Konsep Array         |      Memahami konsep Array dan mencoba untuk mengimplemntasikannya dalam program      |   [Video](https://youtu.be/S7s7yIPUn_s)   |
+|   06    |          Array Multi-dimensi           |                Mengenal berbagai macam konsep array multi-dimensi dan implementasinya dalam program                 |   [Video](https://youtu.be/RN-ZVxdSWSM)   |
+|   07    |         Perulangan          |          Memahami inti kedua dari pemograman yaitu melakukan perulangan          |   [Video](https://youtu.be/KcsFEZerRDk)   |
+|   08    |      Percabangan      |      Memahami salah satu dari inti dari membuat pemograman yaitu melakukan pengkondisian (Percabangan)      |   [Video](https://youtu.be/492A2poEoow)   |
+|   09    |            Fungsi             |                        Mengenal konsep fungsi dalam teknik pemograman                         |   [Video](https://youtu.be/gHEXYYS-KAo)   |
+
+nb: Pastikan sesuai dengan laur belajar ya, ingat "Buru-buru tidak perlu, Proses nomor satu"😁🤙
 
 Setelah menyelesaikan seluruh rangkaian pengenalan dasar - dasar pemograman, kalian dapat mulai untuk mempelajari topik - topik lain yang jauh lebih seru!
 Untuk sekarang, mulai saja dulu dengan [Object Oriented Programming](https://youtube.com/playlist?list=PLZS-MHyEIRo6V4_vk1s1NcM2HoW5KFG7i)
