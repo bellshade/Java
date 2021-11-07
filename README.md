@@ -71,7 +71,7 @@ Jika masih bingung gimana cara _mengcompile_ atau menjalankan program Java bisa 
 ## ⚡ Quick Access ⚡
 Semua *script* yang ada pada repositori ini, dapat diakses dengan cepat lewat link berikut:
 - [Basic](basic/)
-- [Algoritma Java](algorthm/)
+- [Algoritma Java](algorithm/)
 - [Lanjutan](intermediate/)
 - [Utilitas pada Java](utilities/)
 - [Object Oriented Programing](intermediate/oop/)
