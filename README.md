@@ -82,4 +82,6 @@ Bantuan kalian diperlukan! Untuk Bellshade dapat lebih jauh lagi membantu anak -
 
 Kami sangat senang bila kalian ingin melakukan kontribusi pada repositori **Java** ini. Tapi, sebelum itu, silahkan baca terlebih dahulu [peraturan dan pedomannya](CONTRIBUTING.md) yang telah kami siapkan. Terima kasih! 
 
+Dan jika ada seseorang berbaik hati mendonasikan bisa [disini](https://saweria.co/bellshade) ya
+
 Untuk informasi lebih lanjut, mari gabung dalam komunitas [Discord Channel WPU](http://discord.gg/S4rrXQU)
