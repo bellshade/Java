@@ -15,7 +15,7 @@ Repositori ini berisi kumpulan berbagai macam *source code* struktur data, algor
 
 
 ## 🎉🎉 Selamat Datang di Java 🎉🎉
-Java adalah bahasa pemograman multi fungsi dengan tipe *compiled language*. Artinya, kode yang ditulis dalam Java harus dikompilasi atau diubah terlebih dahulu menjadi file `binary` yang dapat dimengerti komputer. 
+Kami mengucapkan [Selamat Datang](https://github.com/bellshade/Java/blob/main/welcome.java) di Bellshade Repositori Java. Java adalah bahasa pemograman multi fungsi dengan tipe *compiled language*. Artinya, kode yang ditulis dalam Java harus dikompilasi atau diubah terlebih dahulu menjadi file `binary` yang dapat dimengerti komputer. 
 
 Sejarah Singkat mengenai Java: Pada tahun 1991, Sun Microsystems menawarkan project kepada tim yang dipimpin oleh James Gosling, Patrick Naughton, dan Mike Sheridan untuk membuat perangkat konsumer seperti cable tv box. Dikarenakan perangkat tersebut tidak mempunyai banyak memori, bahasa yang digunakan harus berukuran kecil dan sesuai dengan arsitekturnya. Sehingga, akhirnya mereka memutuskan untuk membuat bahasa baru. Mereka menamakan project tersebut dengan nama “Green Project”. Pada tahun 1994, terbentuklah sebuah nama untuk bahasa pemrograman yang mereka buat. Bahasa tersebut bernama OAK. Namun, ternyata nama OAK sudah ada yang menggunakan. Sehingga, nama OAK diubah namanya menjadi Java. Nama Java terinspirasi dari secangkir kopi yang diminum berasal dari Pulau Jawa, Indonesia. Akhirnya dibuatlah bahasa pemrograman Java dengan logo secangkir kopi. Setelah itu nama Java mulai terdengar, sehingga berbagai industri dan universitaspun banyak yang meliriknya. Java merupakan bahasa pemrograman yang lebih sederhana dan dapat mengakomodasikan hampir seluruh fitur penting bahasa pemrograman lain.
 
@@ -35,7 +35,7 @@ Sejarah Singkat mengenai Java: Pada tahun 1991, Sun Microsystems menawarkan proj
 |   08    |      Percabangan      |      Memahami salah satu dari inti dari membuat pemograman yaitu melakukan pengkondisian (Percabangan)      |   [Video](https://youtu.be/492A2poEoow)   |
 |   09    |            Fungsi             |                        Mengenal konsep fungsi dalam teknik pemograman                         |   [Video](https://youtu.be/gHEXYYS-KAo)   |
 
-nb: Pastikan sesuai dengan laur belajar ya, ingat "Buru-buru tidak perlu, Proses nomor satu"😁🤙
+nb: Pastikan sesuai dengan alur belajar ya, ingat "Buru-buru tidak perlu, Proses nomor satu"😁🤙
 
 Setelah menyelesaikan seluruh rangkaian pengenalan dasar - dasar pemograman, kalian dapat mulai untuk mempelajari topik - topik lain yang jauh lebih seru!
 Untuk sekarang, mulai saja dulu dengan [Object Oriented Programming](https://youtube.com/playlist?list=PLZS-MHyEIRo6V4_vk1s1NcM2HoW5KFG7i)
@@ -51,12 +51,12 @@ Untuk Compiler Java SDK (Software Development Kit) Kalian bisa mendownloadnya di
 Java JDK (Java Development Kit) [disini](https://www.oracle.com/java/technologies/downloads/) <br>
 Java JRE (Java Runtime Environment) [disini](https://www.java.com/en/download/manual.jsp) <br>
 Code Editor atau IDE (opsional dan silahkan pilih sesuai selera😉) <br> <br>
-Ohh ya, Java JDK juga termasuk Java SE ya (Standard Edition) yang berarti Edisi Java Biasa/Standard yang paling banyak dipakai oleh keperluan-keperluan saat ini. Tapi jika kamu belum mengetahui apa-apa aja sih yang ada di Java Edition, berikut kami menjelaskan secara singkat, padat dan jelas😁. <br>
-Java FX = Edisi bahasa Java yang secara khusus dipakai untuk pembuatan aplikasi desktop berbasis grafis. <br>
-Java EE = Enterprise Edition, Edisi bahasa Java untuk kelas perusahaan, mencakup fitur advanced seperti distributed computing. <br>
-Java ME = Micro Edition, Edisi bahasa Java untuk perangkat embedded (perangkat kecil dengan memory terbatas), seperti TV, micro-controller, sensor, dll. <br>
-Java CDK = Card Development Kit merupakan bagian dari platform Java yang ditujukan untuk smart card. <br> <br>
-Untuk melakukan kompilasi, buka terminal pada folder kode yang ingin kalian _compile_ lalu jalankan perintah (CMD/Terminal/Bash)
+Ohh ya, Java JDK juga termasuk Java SE ya (Standard Edition) yang berarti Edisi Java Biasa/Standard yang paling banyak dipakai oleh keperluan-keperluan saat ini. Tapi jika kamu belum mengetahui apa-apa aja sih yang ada di Java Edition, berikut kami menjelaskan secara singkat, padat dan jelas😁. <br> <br>
+- Java FX = Edisi bahasa Java yang secara khusus dipakai untuk pembuatan aplikasi desktop berbasis grafis. <br>
+- Java EE = Enterprise Edition, Edisi bahasa Java untuk kelas perusahaan, mencakup fitur advanced seperti distributed computing. <br>
+- Java ME = Micro Edition, Edisi bahasa Java untuk perangkat embedded (perangkat kecil dengan memory terbatas), seperti TV, micro-controller, sensor, dll. <br>
+- Java CDK = Card Development Kit merupakan bagian dari platform Java yang ditujukan untuk smart card. <br> <br>
+> Untuk melakukan kompilasi, buka terminal pada folder kode yang ingin kalian _compile_ lalu jalankan perintah (CMD/Terminal/Bash)
 ```
 Javac source_code.java
 Java source_code.class
@@ -71,8 +71,9 @@ Jika masih bingung gimana cara _mengcompile_ atau menjalankan program Java bisa 
 ## ⚡ Quick Access ⚡
 Semua *script* yang ada pada repositori ini, dapat diakses dengan cepat lewat link berikut:
 - [Basic](basic/)
+- [Lanjutan (Menengah)](intermediate/)
+- [Lanjutan (Advanced)](advanced/)
 - [Algoritma Java](algorithm/)
-- [Lanjutan](intermediate/)
 - [Utilitas pada Java](utilities/)
 - [Object Oriented Programing](intermediate/oop/)
 
