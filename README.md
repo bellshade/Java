@@ -47,7 +47,7 @@ Jika kalian sudah menguasai dasar - dasar pemograman berserta dengan paradigma *
 ## 📃 Panduan Pengunaan 📃
 Seluruh kode yang tersedia pada repositori ini dapat kalian jalankan dengan melakukan kompilasi terlebih dahulu. <br>
 Sebelum kalian memulai _mengcompile_ program Java ini, kalian membutuhkan Java SDK (Java JDK + Java JRE) dan sebuah Code Editor atau IDE. <br>
-Untuk Compiler Java SDK (Software Development Kit) Kalian bisa mendownloadnya di link yang ada di bawah: <br> <br>
+Untuk Compiler Java SDK (Standard Development Kit) Kalian bisa mendownloadnya di link yang ada di bawah: <br> <br>
 Java JDK (Java Development Kit) [disini](https://www.oracle.com/java/technologies/downloads/) <br>
 Java JRE (Java Runtime Environment) [disini](https://www.java.com/en/download/manual.jsp) <br>
 Code Editor atau IDE (opsional dan silahkan pilih sesuai selera😉) <br> <br>
