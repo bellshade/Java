@@ -1,18 +1,20 @@
-name: Prettify
-on: [push, pull_request]
-jobs:
-  prettier:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-      with:
-        ref: ${{ github.head_ref }}
+name: Prettier
 
-    - name: Prettify code
-      uses: creyD/prettier_action@v3.3
+on: [push,pull_request]
+
+jobs:
+  cleanup_tasks:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Cloning the repository
+      uses: actions/checkout@v1
       with:
-        prettier_options: --write **/*.java
-        commit_message: 'Prettify code'
+        fetch-depth: 1
+    - name: Prettify the Java Code
+      uses: lwerner-lshigh/prettier_action_java@v1.1.1
+      with:
+        prettier_options: '--no-semi --write *.java'
+        branch: ${{ github.head_ref }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
