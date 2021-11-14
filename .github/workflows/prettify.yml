@@ -1,6 +1,8 @@
-name: Prettier
+name: Prettier for JS Code
 
-on: [push,pull_request]
+on:
+  push:
+    branches: [main]
 
 jobs:
   cleanup_tasks:
@@ -11,10 +13,10 @@ jobs:
       uses: actions/checkout@v1
       with:
         fetch-depth: 1
-    - name: Prettify the Java Code
+    - name: Prettify the JS Code
       uses: lwerner-lshigh/prettier_action_java@v1.1.1
       with:
         prettier_options: '--no-semi --write *.java'
-        branch: ${{ github.head_ref }}
+        branch: main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
