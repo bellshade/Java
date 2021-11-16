@@ -42,6 +42,7 @@ Untuk sekarang, mulai saja dulu dengan [Object Oriented Programming](https://you
 
 ## 🎓 Topik Lanjutan 🎓
 Jika kalian sudah menguasai dasar - dasar pemograman berserta dengan paradigma *Object Oriented Programming*, kalian bisa langsung mengeksplorasi topik - topik lain yang jauh lebih menantang dan tidak kalah seru. Di repositori ini, kami telah menyiapkan beberapa topik yang mungkin kamu suka.
+01. [Topik Rekursif](advanced/Recursive/Recursive.java/) <br>
 [COMING SOON](https://image.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_1017-26690.jpg)
 
 ## 📃 Panduan Pengunaan 📃
