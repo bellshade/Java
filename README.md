@@ -35,7 +35,7 @@ Sejarah Singkat mengenai Java: Pada tahun 1991, Sun Microsystems menawarkan proj
 |   06    |      Array Multi-dimensi       |       Mengenal berbagai macam konsep array multi-dimensi dan implementasinya dalam program        | [Video](https://youtu.be/RN-ZVxdSWSM) |  [Materi](learn/basic/MultiDimentionalArray/)   |
 |   07    |           Perulangan           |                  Memahami inti kedua dari pemograman yaitu melakukan perulangan                   | [Video](https://youtu.be/KcsFEZerRDk) |       [Materi](learn/basic/BasicLooping/)       |
 |   08    |          Percabangan           | Memahami salah satu dari inti dari membuat pemograman yaitu melakukan pengkondisian (Percabangan) | [Video](https://youtu.be/492A2poEoow) |     [Materi](learn/basic/StatementLogika/)      |
-|   09    |             Fungsi             |                          Mengenal konsep fungsi dalam teknik pemograman                           | [Video](https://youtu.be/gHEXYYS-KAo) |        [Materi](learn/basic/Methodjava/)        |
+|   09    |             Fungsi             |                          Mengenal konsep fungsi dalam teknik pemograman                           | [Video](https://youtu.be/gHEXYYS-KAo) |        [Materi](learn/basic/MethodJava/)        |
 
 nb: Pastikan sesuai dengan alur belajar ya, ingat "Buru-buru tidak perlu, Proses nomor satu"😁🤙
 
