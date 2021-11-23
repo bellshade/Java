@@ -12,7 +12,7 @@ import java.io.*; // mengimport package Java Input-Output secara Dinamis
 import java.awt.image.BufferedImage; // mengimport package Java Gambar, dari SubClass java.io
 import javax.imageio.ImageIO; // mengimport package Java Input-Output Gambar, dari SubClass java.io
 
-public class Main {
+public class Programnya {
     public static void main(String[] args) throws IOException {
         BufferedImage image = null;
         File file = null;
