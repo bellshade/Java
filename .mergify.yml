@@ -33,7 +33,7 @@ pull_request_rules:
       - label=markdown files
     actions:
       request_reviews:
-        teams:
+        users:
           - sautmanurung1
 
   - name: review docs team untuk file markdown
