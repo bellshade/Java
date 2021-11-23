@@ -1,6 +1,6 @@
 package intermediate.Encapsulation;
 
-public class Main {
+public class EncasulaptionLainnya {
     public static void main(String[] args) {
         // Disini kita mengubah class ContohEncapsulation menjadi object yang dimana
         // nanti di panggil untuk mengeluarkan hasil dari yang kita buat pada class
