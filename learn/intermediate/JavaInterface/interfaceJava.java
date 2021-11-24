@@ -4,19 +4,19 @@ package learn.intermediate.JavaInterface;
  * kelas remoteTV mempunyai method Perintah yang diwariskan oleh kelas tombolRemote
  */
 
-interface tombolRemote{
+interface TombolRemote{
     // Membuat kelas interface
     void volumeUp();
     void volumeDown();
 }
 
-class remoteTV implements tombolRemote{
+class RemoteTV implements TombolRemote{
     // Contoh kelas yang mengimplementasi kelas Interface
 
     // Inisialisasi nilai awal setiap membuat objek
     private Integer volume = 20;
 
-    public remoteTV() {
+    public RemoteTV() {
     }
 
     public void volumeNow() {
@@ -36,10 +36,10 @@ class remoteTV implements tombolRemote{
     }
 }
 
-public class interfaceJava {
+public class InterfaceJava {
     // deklarasi semua kelas dan pemanggilan
     public static void main(String[] args) {
-        remoteTV remote = new remoteTV();
+        RemoteTV remote = new RemoteTV();
 
         remote.volumeNow(); // Volume TV : 20
 

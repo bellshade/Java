@@ -22,15 +22,15 @@ untuk mewarisi dari kelas gunakan key `implements`
 contoh
 
 ```java
-interface tombolRemote{
+interface TombolRemote{
   void volumeUp();
   void volumeDown();
 }
 
-class remoteTV implements tombolRemote{
+class RemoteTV implements TombolRemote{
   private Integer volume = 20;
 
-  public remoteTV() {
+  public RemoteTV() {
   }
 
   public void volumeNow() {
@@ -48,10 +48,10 @@ class remoteTV implements tombolRemote{
   }
 }
 
-public class interfaceJava {
+public class InterfaceJava {
   // deklarasi semua kelas dan pemanggilan
   public static void main(String[] args) {
-    remoteTV remote = new remoteTV();
+    RemoteTV remote = new RemoteTV();
 
     remote.volumeNow(); // Volume TV : 20
 
@@ -74,8 +74,8 @@ ada didalam kelas Objek.
 
 contoh kasus :
 
-kelas `tombolRemote` tidak perlu dibuat sebuah objek, karena hanya berisi sifat-sifat perintah yang harus dimiliki oleh 
+kelas `TombolRemote` tidak perlu dibuat sebuah objek, karena hanya berisi sifat-sifat perintah yang harus dimiliki oleh 
 remote pada umumnya.
 
-Sehingga kelas `tombolRemote` dibuat menjadi _Interface Class_ dan method didalam nya diwariskan ke kelas turunannya 
-seperti `remoteTV`.
+Sehingga kelas `TombolRemote` dibuat menjadi _Interface Class_ dan method didalam nya diwariskan ke kelas turunannya 
+seperti `RemoteTV`.
