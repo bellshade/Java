@@ -21,8 +21,9 @@ Kami mengucapkan [Selamat Datang](https://github.com/bellshade/Java/blob/main/we
 
 Sejarah Singkat mengenai Java: Pada tahun 1991, Sun Microsystems menawarkan project kepada tim yang dipimpin oleh James Gosling, Patrick Naughton, dan Mike Sheridan untuk membuat perangkat konsumer seperti cable tv box. Dikarenakan perangkat tersebut tidak mempunyai banyak memori, bahasa yang digunakan harus berukuran kecil dan sesuai dengan arsitekturnya. Sehingga, akhirnya mereka memutuskan untuk membuat bahasa baru. Mereka menamakan project tersebut dengan nama “Green Project”. Pada tahun 1994, terbentuklah sebuah nama untuk bahasa pemrograman yang mereka buat. Bahasa tersebut bernama OAK. Namun, ternyata nama OAK sudah ada yang menggunakan. Sehingga, nama OAK diubah namanya menjadi Java. Nama Java terinspirasi dari secangkir kopi yang diminum berasal dari Pulau Jawa, Indonesia. Akhirnya dibuatlah bahasa pemrograman Java dengan logo secangkir kopi. Setelah itu nama Java mulai terdengar, sehingga berbagai industri dan universitaspun banyak yang meliriknya. Java merupakan bahasa pemrograman yang lebih sederhana dan dapat mengakomodasikan hampir seluruh fitur penting bahasa pemrograman lain.
 
-> ### Baru Belajar? Mulai dari [sini](https://youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) 🌟
->
+> ### Baru Belajar? Mulai dari [sini](learn/basic/) 🌟
+> ### Atau kalian bisa  [Nonton Video Materi Terlebih Dulu](https://youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) 🌟
+> 
 > Untuk menggunakan repositori dengan maksimal, kalian perlu belajar programming dasar dahulu. Silahkan ikuti alur belajar berikut untuk mempelajari dasar - dasar pemograman langsung menggunakan Java
 
 | Langkah |             Topik              |                                        Target Pembelajaran                                        |             Video Rujukan             |                     Materi                      |
