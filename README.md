@@ -9,6 +9,7 @@
 ![javatesting](https://img.shields.io/github/workflow/status/bellshade/Java/build%20java?style=for-the-badge)
 ![code-quality](https://camo.githubusercontent.com/4886b1fdb05d416e7ba2339097fa8fe6da5613836b5f76f43fa80bfafcb993a1/68747470733a2f2f696d672e736869656c64732e696f2f6c67746d2f67726164652f707974686f6e2f6769746875622f62656c6c73686164652f507974686f6e416c676f726974686d3f6c6162656c3d436f64652532305175616c697479267374796c653d666f722d7468652d6261646765)
 ![code-factor](https://camo.githubusercontent.com/1f727bfd32cd983731b2d87366e39a346f90d90037b3cca39d757e786fa40f9b/68747470733a2f2f696d672e736869656c64732e696f2f636f6465666163746f722f67726164652f6769746875622f62656c6c73686164652f507974686f6e2f6d61696e3f6c6162656c3d636f6465253230666163746f72267374796c653d666f722d7468652d6261646765)
+![Visitor Badge](https://visitor-badges.glitch.me?username=bellshade&repo=Java&label=VISITOR&style=for-the-badge&color=%2344CC11&token=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&contentType=svg)
 [![discord](https://img.shields.io/discord/722002048643497994?logo=discord&logoColor=white&style=for-the-badge)](http://discord.gg/S4rrXQU)
 
 Repositori ini berisi kumpulan berbagai macam _source code_ struktur data, algoritma, analisis matematika dan sebagainya yang diimplementasikan dengan menggunakan bahasa pemrograman Java.
@@ -23,25 +24,37 @@ Sejarah Singkat mengenai Java: Pada tahun 1991, Sun Microsystems menawarkan proj
 
 > ### Baru Belajar? Mulai dari [sini](learn/basic/) 🌟
 > ### Atau kalian bisa  [Nonton Video Materi Terlebih Dulu](https://youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) 🌟
-> 
+>
 > Untuk menggunakan repositori dengan maksimal, kalian perlu belajar programming dasar dahulu. Silahkan ikuti alur belajar berikut untuk mempelajari dasar - dasar pemograman langsung menggunakan Java
 
 | Langkah |             Topik              |                                        Target Pembelajaran                                        |             Video Rujukan             |                     Materi                      |
 | :-----: | :----------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------: | :---------------------------------------------: |
-|   01    | Introduksi Pemograman dan Java |        Memahami apa itu membuat program dan apa peran Java dalam proses pembuatan program         | [Video](https://youtu.be/uHyfQV0kbgo) |     [Materi](learn/basic/HelloWorld.java/)      |
-|   02    |     Variabel dan Tipe Data     |   Memahami apa itu variabel dan tipe data berserta dengan perannya terhadap memori dan pointer    | [Video](https://youtu.be/OrgFwUl2tzQ) |         [Materi](learn/basic/TipeData/)         |
-|   03    |       Operasi Aritmatika       |  Dapat melakukan operasi aritmatika sederhana menggunakan program yang ditulis menggunakan Java   | [Video](https://youtu.be/FlbBdWUC0YU) | [Materi](learn/basic/Operator/Aritmatika.java/) |
-|   04    |        Operasi Boolean         |                   Mengenal operasi boolean dan perannya dalam proses pemograman                   | [Video](https://youtu.be/wOnpqaWVM3E) |  [Materi](learn/basic/Operator/Logical.java/)   |
-|   05    |          Konsep Array          |            Memahami konsep Array dan mencoba untuk mengimplemntasikannya dalam program            | [Video](https://youtu.be/S7s7yIPUn_s) |        [Materi](learn/basic/BasicArray/)        |
-|   06    |      Array Multi-dimensi       |       Mengenal berbagai macam konsep array multi-dimensi dan implementasinya dalam program        | [Video](https://youtu.be/RN-ZVxdSWSM) |  [Materi](learn/basic/MultiDimentionalArray/)   |
-|   07    |           Perulangan           |                  Memahami inti kedua dari pemograman yaitu melakukan perulangan                   | [Video](https://youtu.be/KcsFEZerRDk) |       [Materi](learn/basic/BasicLooping/)       |
-|   08    |          Percabangan           | Memahami salah satu dari inti dari membuat pemograman yaitu melakukan pengkondisian (Percabangan) | [Video](https://youtu.be/492A2poEoow) |     [Materi](learn/basic/StatementLogika/)      |
-|   09    |             Fungsi             |                          Mengenal konsep fungsi dalam teknik pemograman                           | [Video](https://youtu.be/gHEXYYS-KAo) |        [Materi](learn/basic/MethodJava/)        |
+|   01    | Introduksi Pemograman dan Java |        Memahami program dasar Java         | [Video](https://youtu.be/uHyfQV0kbgo) |     [Hello World](learn/basic/HelloWorld.java/)      |
+|   02    | Variabel dan Tipe Data |        Memahami apa itu Variabel dan Tipe Data di Java         | [Video](https://youtu.be/ddK6hExKhmM) |     [Materi](learn/basic/TipeData/)      |
+|   03    | Data Casting |        Memahami Data Casting pada sebuah Variabel di Java         | [Video](https://youtu.be/IRis_1jMi1w) |     [Materi](learn/basic/DataCasting/)      |
+|   04    | Operator Aritmatika |        Memahami Operator perhitungan Aritmatika dalam Java         | [Video](https://youtu.be/FlbBdWUC0YU) |     [Materi](learn/basic/Operator/Aritmatika.java/)      |
+|   05    | Operator Komparasi |        Memahami Operator perbandingan dalam Java         | [Video](https://youtu.be/KiQDo3yZDnI) |     [Materi](learn/basic/Operator/Comparasion.java/)      |
+|   06    | Operator Boolean |        Memahami Operator Logika (Boolean) dalam Java         | [Video](https://youtu.be/wOnpqaWVM3E) |     [Materi](learn/basic/Operator/Logical.java/)      |
+|   06    | Struktur Kontrol (If-Else) |        Memahami Pengkondisian atau Struktur Kontrol If-Else dalam Java         | [Video](https://youtu.be/492A2poEoow) |     [Materi](learn/basic/StatementLogika/IfElse.java/)      |
+|   07    | Struktur Kontrol (Swtich-Case) |        Memahami Pengkondisian atau Struktur Kontrol Switch-Case dalam Java         | [Video](https://youtu.be/_OwCDThM3EI) |     [Materi](learn/basic/StatementLogika/SwitchJava.java/)      |
+|   08    | Perluangan atau Looping (While) |        Memahami Perulangan While dalam Java         | [Video](https://youtu.be/KcsFEZerRDk) |     [Materi](learn/basic/BasicLooping/WhileLooping.java/)      |
+|   09    | Perluangan atau Looping (Do-While) |        Memahami Perulangan Do-While dalam Java         | [Video](https://youtu.be/E9khhPRn8aQ) |     [Materi](learn/basic/BasicLooping/DoWhile.java/)      |
+|   10    | Perluangan atau Looping (For) |        Memahami Perulangan For dalam Java         | [Video](https://youtu.be/OAiZZqiSzxo) |     [Materi](learn/basic/BasicLooping/ForStatement.java/)      |
+|   11    | Array |        Memahami Array dalam Java         | [Video](https://youtu.be/Oa4FvgsCByw) |     [Materi](learn/basic/BasicArray/BasicArray.java/)      |
+|   12    | Array Multi Dimensi |        Memahami Array Multi Dimensi dalam Java         | [Video](https://youtu.be/RN-ZVxdSWSM) |     [Materi](learn/basic/MultiDimentionalArray/MultiDimensionalArray.java/)      |
+|   13    | String |        Memahami String dalam Java         | [Video](https://youtu.be/BAtdw48XTMc) |     [Materi](learn/basic/String/StringJava.java/)      |
+|   13    | String |        Memahami String dalam Java         | [Video](https://youtu.be/BAtdw48XTMc) |     [Materi](learn/basic/String/StringJava.java/)      |
+
+
+
 
 nb: Pastikan sesuai dengan alur belajar ya, ingat "Buru-buru tidak perlu, Proses nomor satu"😁🤙
 
 Setelah menyelesaikan seluruh rangkaian pengenalan dasar - dasar pemograman, kalian dapat mulai untuk mempelajari topik - topik lain yang jauh lebih seru!
-Untuk sekarang, mulai saja dulu dengan [Object Oriented Programming](https://youtube.com/playlist?list=PLZS-MHyEIRo6V4_vk1s1NcM2HoW5KFG7i)
+Untuk sekarang, mulai saja dulu dengan [Object Oriented Programming Dasar](learn/intermediate/object_oriented_programming/oop_basic) 
+Apabila kamu sudah mempelajari tingkat dasar Object Oriented Programming atau Pemrograman Berbasis Objek, maka selanjutnya kamu bisa mempelajari tingkat [Lanjutan](learn/intermediate/object_oriented_programming/oop_intermediate)
+
+Jika kamu masih bingung gimana cara mempelajari OOP ini, tenang aja ada materi Video yang kamu bisa [tonton di Playlist ini](https://youtube.com/playlist?list=PLZS-MHyEIRo6V4_vk1s1NcM2HoW5KFG7i)
 
 ## 🎓 Topik Lanjutan 🎓
 
