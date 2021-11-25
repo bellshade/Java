@@ -1,4 +1,4 @@
-class Main {
+class JavaEnum {
     // pada line 3 definisikan enum seperti mendefinisikan class
     // dan pada line 4 definisikan kata kunci dengan pemisah koma
     enum Quality {

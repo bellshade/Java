@@ -2,7 +2,7 @@ package JavaConstructors;
 
 
 
-public class Main {
+public class Constructor {
     public static void main(String[] args) {
 
         // deklarasi kelas `smartphone`
