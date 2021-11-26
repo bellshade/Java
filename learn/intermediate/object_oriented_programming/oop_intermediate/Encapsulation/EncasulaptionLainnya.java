@@ -1,5 +1,3 @@
-package intermediate.Encapsulation;
-
 public class EncasulaptionLainnya {
     public static void main(String[] args) {
         // Disini kita mengubah class ContohEncapsulation menjadi object yang dimana
