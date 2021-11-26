@@ -1,5 +1,3 @@
-package learn.intermediate.JavaInterface;
-
 /**
  * kelas remoteTV mempunyai method Perintah yang diwariskan oleh kelas tombolRemote
  */
@@ -36,7 +34,7 @@ class RemoteTV implements TombolRemote{
     }
 }
 
-public class InterfaceJava {
+public class interfaceJava {
     // deklarasi semua kelas dan pemanggilan
     public static void main(String[] args) {
         RemoteTV remote = new RemoteTV();
