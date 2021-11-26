@@ -15,7 +15,7 @@ class JenisMotor extends Motor{
   }
 }
 
-class InheritanceJava{
+public class InheritanceJava{
   // deklarasi semua kelas dan pemanggilan
   // dari jenis motor karena jenisMotor sudah dapat warisan dari
   // kelas Motor
