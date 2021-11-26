@@ -1,5 +1,3 @@
-package intermediate.Object_Oritented_Programming.oop_basic.Encapsulation;
-
 public class ContohEncapsulation {
     // Deklarasikan variable class dengan bentuk private
     private String bentuk;
