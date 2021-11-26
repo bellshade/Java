@@ -12,7 +12,7 @@ class RemoteTV implements TombolRemote{
     // Contoh kelas yang mengimplementasi kelas Interface
 
     // Inisialisasi nilai awal setiap membuat objek
-    private Integer volume = 20;
+    private int volume = 20;
 
     public RemoteTV() {
     }
@@ -24,13 +24,13 @@ class RemoteTV implements TombolRemote{
     @Override
     public void volumeUp() {
         // Perintah : Setiap di panggil volume bertambah 1
-        this.volume+=1;
+        this.volume += 1;
     }
 
     @Override
     public void volumeDown() {
         // Perintah : Setiap di panggil volume berkurang 1
-        this.volume-=1;
+        this.volume -= 1;
     }
 }
 
