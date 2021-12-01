@@ -61,7 +61,7 @@ class abstrakTutorial{
 
 ## Kapan harus menggunakan kelas Abstrak ?
 
-Jika kita lihat di [inheritance](https://github.com/bellshade/Java/tree/main/intermediate/JavaInheritance),
+Jika kita lihat di [inheritance](https://github.com/bellshade/Java/tree/main/learn/intermediate/object_oriented_programming/oop_intermediate/Inheritance),
 _superclass_ yang digunakan dalam **pewarisan** adalah kelas normal dan bukan kelas abstrak.
 
 Ada beberapa kasus dimana sebuah kelas tidak perlu diinisiasi menjadi objek. sehingga cukup dijadikan kelas abstrak saja
