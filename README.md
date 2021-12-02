@@ -58,7 +58,8 @@ Jika kamu masih bingung gimana cara mempelajari OOP ini, tenang aja ada materi V
 ## 🎓 Topik Lanjutan 🎓
 
 Jika kalian sudah menguasai dasar - dasar pemograman berserta dengan paradigma _Object Oriented Programming_, kalian bisa langsung mengeksplorasi topik - topik lain yang jauh lebih menantang dan tidak kalah seru. Di repositori ini, kami telah menyiapkan beberapa topik yang mungkin kamu suka. <br> 
-01. [Image Processing](learn/advanced/ImageProcessing/ColoredImage-GrayScale/) <br>
+1. [Image Processing](learn/advanced/ImageProcessing/) <br>
+2. [Java GUI](learn/advanced/Java-GUI/) <br>
 [COMING SOON](https://image.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_1017-26690.jpg)
 
 ## 📃 Panduan Pengunaan 📃
