@@ -1,3 +1,5 @@
+package learn.advanced.JavaLambdaExpressions;
+
 public class Lambda {
     // Membuat interface
     interface PrintNumbers{
