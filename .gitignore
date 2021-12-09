@@ -2,6 +2,7 @@
 .vscode
 *.log
 *.sh
+out/
 
 ### IntelliJ IDEA ###
 .idea
