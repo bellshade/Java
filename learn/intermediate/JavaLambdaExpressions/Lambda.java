@@ -1,4 +1,4 @@
-package learn.advanced.JavaLambdaExpressions;
+package learn.intermediate.JavaLambdaExpressions;
 
 public class Lambda {
     // Membuat interface
