@@ -3,11 +3,9 @@
 // Time Complexity menjadi O(n^2)
 
 
-class SelectionSort
-{
+class SelectionSort {
 
-	void selectionSort(int arr[], int n)
-	{ 
+	void selectionSort(int arr[], int n) { 
 		if (n <= 1) {
 			return;
 		}
@@ -33,16 +31,14 @@ class SelectionSort
 	    }
 	}
 
-	void printArr(int arr[], int n)
-	{
+	void printArr(int arr[], int n) {
 		for (int i = 0; i < n; i++) {
 			System.out.print(arr[i] + " ");
 		}
 		System.out.println();
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		int n = 5;
 		int arr[] = new int[n];
 		arr[0] = 4;
