@@ -5,10 +5,8 @@
 // Time Complexity: O(n^2)
 
 
-class BubbleSort
-{
-    void bubbleSort(int arr[], int n)
-    {
+class BubbleSort {
+    void bubbleSort(int arr[], int n) {
         if (n <= 1) {
             return;
         }
@@ -36,16 +34,14 @@ class BubbleSort
         printArr(arr, n);
     }
 
-    void printArr(int arr[], int n)
-    {
+    void printArr(int arr[], int n) {
         for(int i = 0; i < n; i++) {
             System.out.print(arr[i] + " ");
         }
         System.out.println();
     }
 
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         BubbleSort bs = new BubbleSort();
         int n = 5;
         int[] arr = new int[n];
