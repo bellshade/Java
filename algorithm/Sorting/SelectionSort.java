@@ -3,7 +3,7 @@
 // Time Complexity menjadi O(n^2)
 
 
-class MySelectionSort
+class SelectionSort
 {
 
 	void selectionSort(int arr[], int n)
@@ -50,8 +50,8 @@ class MySelectionSort
 		arr[2] = 3;
 		arr[3] = 9;
 		arr[4] = 7;
-		MySelectionSort mss = new MySelectionSort();
-		mss.selectionSort(arr, n);
+		SelectionSort ss = new SelectionSort();
+		ss.selectionSort(arr, n);
 	}
 
 }
