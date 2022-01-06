@@ -6,11 +6,11 @@ Dalam teknik pemrograman, struktur data berarti tata letak data yang berisi kolo
 Setiap bahasa pemrograman pasti memiliki Struktur Data yang sama, tetapi memiliki cara penulisan *pseudocode* yang berbeda-beda. 
 
 Jenis-jenis Struktur Data pada Java yakni
--[Array]()
--[Linked List]()
--[Stack]()
--[Queue]()
--[Sorting](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Sorting)
--[Binary Tree]()
+- [Array](https://image.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg)
+- [Linked List](https://image.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg)
+- [Stack](https://image.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg)
+- [Queue](https://image.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg)
+- [Sorting](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Sorting)
+- [Binary Tree](https://image.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg)
 
 Jangan lupa, ttp dipelajari Struktur Data juga ya!!! bisa memahami Struktur Data akan membuatmu baik kedepan dalam memnyusun algoritma. :sunglasses: :+1:
