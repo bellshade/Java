@@ -13,4 +13,4 @@ Jenis-jenis Struktur Data pada Java yakni
 - [Sorting](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Sorting)
 - [Binary Tree](https://image.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg)
 
-Jangan lupa, ttp dipelajari Struktur Data juga ya!!! bisa memahami Struktur Data akan membuatmu baik kedepan dalam memnyusun algoritma. :sunglasses: :+1:
+Jangan lupa, tetap dipelajari Struktur Data juga ya!!! bisa memahami Struktur Data akan membuatmu baik kedepan dalam memnyusun algoritma. :sunglasses: :+1:
