@@ -35,16 +35,16 @@ Sejarah Singkat mengenai Java: Pada tahun 1991, Sun Microsystems menawarkan proj
 |   04    | Operator Aritmatika |        Memahami Operator perhitungan Aritmatika dalam Java         | [Video](https://youtu.be/FlbBdWUC0YU) |     [Materi](learn/basic/Operator/Aritmatika.java/)      |
 |   05    | Operator Komparasi |        Memahami Operator perbandingan dalam Java         | [Video](https://youtu.be/KiQDo3yZDnI) |     [Materi](learn/basic/Operator/Comparasion.java/)      |
 |   06    | Operator Boolean |        Memahami Operator Logika (Boolean) dalam Java         | [Video](https://youtu.be/wOnpqaWVM3E) |     [Materi](learn/basic/Operator/Logical.java/)      |
-|   06    | Struktur Kontrol (If-Else) |        Memahami Pengkondisian atau Struktur Kontrol If-Else dalam Java         | [Video](https://youtu.be/492A2poEoow) |     [Materi](learn/basic/StatementLogika/IfElse.java/)      |
-|   07    | Struktur Kontrol (Swtich-Case) |        Memahami Pengkondisian atau Struktur Kontrol Switch-Case dalam Java         | [Video](https://youtu.be/_OwCDThM3EI) |     [Materi](learn/basic/StatementLogika/SwitchJava.java/)      |
-|   08    | Perluangan atau Looping (While) |        Memahami Perulangan While dalam Java         | [Video](https://youtu.be/KcsFEZerRDk) |     [Materi](learn/basic/BasicLooping/WhileLooping.java/)      |
-|   09    | Perluangan atau Looping (Do-While) |        Memahami Perulangan Do-While dalam Java         | [Video](https://youtu.be/E9khhPRn8aQ) |     [Materi](learn/basic/BasicLooping/DoWhile.java/)      |
-|   10    | Perluangan atau Looping (For) |        Memahami Perulangan For dalam Java         | [Video](https://youtu.be/OAiZZqiSzxo) |     [Materi](learn/basic/BasicLooping/ForStatement.java/)      |
-|   11    | Rekursif  |        Memahami Rekursif dalam Java         | [Video](https://youtu.be/wdrSmK18nj4) |     [Materi](learn/basic/Recursive/Recursive.java/)      |
-|   12    | Array |        Memahami Array dalam Java         | [Video](https://youtu.be/Oa4FvgsCByw) |     [Materi](learn/basic/BasicArray/BasicArray.java/)      |
-|   13    | Array Multi Dimensi |        Memahami Array Multi Dimensi dalam Java         | [Video](https://youtu.be/RN-ZVxdSWSM) |     [Materi](learn/basic/MultiDimentionalArray/MultiDimensionalArray.java/)      |
-|   14    | String |        Memahami String dalam Java         | [Video](https://youtu.be/BAtdw48XTMc) |     [Materi](learn/basic/String/StringJava.java/)      |
-|   15    | String Method |        Memahami Metode-Metode String dalam Java         | [Video](https://youtu.be/BAtdw48XTMc) |     [Materi](learn/basic/String/StringJava.java/)      |
+|   07    | Struktur Kontrol (If-Else) |        Memahami Pengkondisian atau Struktur Kontrol If-Else dalam Java         | [Video](https://youtu.be/492A2poEoow) |     [Materi](learn/basic/StatementLogika/IfElse.java/)      |
+|   08    | Struktur Kontrol (Swtich-Case) |        Memahami Pengkondisian atau Struktur Kontrol Switch-Case dalam Java         | [Video](https://youtu.be/_OwCDThM3EI) |     [Materi](learn/basic/StatementLogika/SwitchJava.java/)      |
+|   09    | Perluangan atau Looping (While) |        Memahami Perulangan While dalam Java         | [Video](https://youtu.be/KcsFEZerRDk) |     [Materi](learn/basic/BasicLooping/WhileLooping.java/)      |
+|   10    | Perluangan atau Looping (Do-While) |        Memahami Perulangan Do-While dalam Java         | [Video](https://youtu.be/E9khhPRn8aQ) |     [Materi](learn/basic/BasicLooping/DoWhile.java/)      |
+|   11    | Perluangan atau Looping (For) |        Memahami Perulangan For dalam Java         | [Video](https://youtu.be/OAiZZqiSzxo) |     [Materi](learn/basic/BasicLooping/ForStatement.java/)      |
+|   12    | Rekursif  |        Memahami Rekursif dalam Java         | [Video](https://youtu.be/wdrSmK18nj4) |     [Materi](learn/basic/Recursive/Recursive.java/)      |
+|   13    | Array |        Memahami Array dalam Java         | [Video](https://youtu.be/Oa4FvgsCByw) |     [Materi](learn/basic/BasicArray/BasicArray.java/)      |
+|   14    | Array Multi Dimensi |        Memahami Array Multi Dimensi dalam Java         | [Video](https://youtu.be/RN-ZVxdSWSM) |     [Materi](lear5/basic/MultiDimentionalArray/MultiDimensionalArray.java/)      |
+|   15    | String |        Memahami String dalam Java         | [Video](https://youtu.be/BAtdw48XTMc) |     [Materi](learn/basic/String/StringJava.java/)      |
+|   16    | String Method |        Memahami Metode-Metode String dalam Java         | [Video](https://youtu.be/BAtdw48XTMc) |     [Materi](learn/basic/String/StringJava.java/)      |
 
 
 nb: Pastikan sesuai dengan alur belajar ya, ingat "Buru-buru tidak perlu, Proses nomor satu"😁🤙
