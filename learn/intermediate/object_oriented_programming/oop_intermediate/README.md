@@ -10,4 +10,4 @@ Selain itu, OOP sendiri adalah dalah suatu metode pemrograman yang berorientasi 
 3. [Inheritance](https://github.com/bellshade/Java/tree/main/learn/intermediate/object_oriented_programming/oop_intermediate/Inheritance)
 4. [Polymorphism](https://github.com/bellshade/Java/tree/main/learn/intermediate/object_oriented_programming/oop_intermediate/Polymorphism)
 
-**hint**: Pada Repo ini, disengajakan untuk materi OOP ditaruh di bagian Intermediate, dikarenakan anda harus memahami terlebih dulu hal-hal dasar dalam mengikuti Pemrograman Berbasi Objek, kamu bisa memahami dan mempelajari terlebih dulu dasar-dasar OOP [disini](https://github.com/bellshade/Java/tree/main/learn/intermediate/object_oriented_programming/oop_basic)
+Pada Repo ini, disengajakan untuk materi OOP ditaruh di bagian Intermediate, dikarenakan anda harus memahami terlebih dulu hal-hal dasar dalam mengikuti Pemrograman Berbasis Objek, kamu bisa memahami dan mempelajari terlebih dulu dasar-dasar OOP [disini](https://github.com/bellshade/Java/tree/main/learn/intermediate/object_oriented_programming/oop_basic)
