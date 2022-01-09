@@ -1,6 +1,6 @@
 import javax.swing.*; // mengimport Package Swing yang merupakan Toolkit standart Java GUI
 
-public class Program_Utama  { // mendeklarasikan class utama, pastikan nama class sesuai dengan source_code
+public class CleanJPanel  { // mendeklarasikan class utama, pastikan nama class sesuai dengan source_code
     public static void main(String[] args) { // mendeklarasikan method void. Method void ini digunakan untuk menghasilkan pengeluaran (output) dalam program Java
         SwingUtilities.invokeLater(new Runnable() { // utilities dari Java Swing yang biasanya mendeklarasikan GUI pokok pada Java
             @Override // Method Override
