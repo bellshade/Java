@@ -39,7 +39,7 @@ Algoritma harus memiliki:
 **contoh penggunaan variabel yang baik pada java**
 kami menyarankan agar menggunakan struktur kode variable pada java seperti dibawah ini
 ```java
-public class nama_file {
+public class NamaFile {
     public static void main(String[] args) {
         int angka_saya = 12;
         double angka_saya_kedua = 13.2f;
@@ -47,7 +47,7 @@ public class nama_file {
 }
 ```
 
-- jika menggunakan kelas (class) kami mengusahakan untuk kapitalisasi
+- jika menggunakan kelas (class) kami menyarankan untuk kapitalisasi
 ```java
 class NamaMurid {
     // kode disini
