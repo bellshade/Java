@@ -18,9 +18,17 @@ Repositori ini berisi kumpulan berbagai macam-macam _source code_ struktur data,
 
 ## 🎉🎉 Selamat Datang di Java 🎉🎉
 
-Kami mengucapkan [Selamat Datang](https://github.com/bellshade/Java/blob/main/welcome.java) di Bellshade Repositori Java. Java adalah bahasa pemograman multi fungsi dengan tipe _compiled language_. Artinya, kode yang ditulis dalam Java harus dikompilasi atau diubah terlebih dahulu menjadi file `binary` yang dapat dimengerti komputer.
+[Selamat Datang](https://github.com/bellshade/Java/blob/main/welcome.java) di Bellshade Repositori Java. Java adalah bahasa pemograman multi fungsi dengan tipe _compiled language_. Artinya, kode yang ditulis dalam Java harus dikompilasi atau diubah terlebih dahulu menjadi file `binary` yang dapat dimengerti komputer.
 
 Sejarah Singkat mengenai Java: Pada tahun 1991, Sun Microsystems menawarkan project kepada tim yang dipimpin oleh James Gosling, Patrick Naughton, dan Mike Sheridan untuk membuat perangkat konsumer seperti cable tv box. Dikarenakan perangkat tersebut tidak mempunyai banyak memori, bahasa yang digunakan harus berukuran kecil dan sesuai dengan arsitekturnya. Sehingga, akhirnya mereka memutuskan untuk membuat bahasa baru. Mereka menamakan project tersebut dengan nama “Green Project”. Pada tahun 1994, terbentuklah sebuah nama untuk bahasa pemrograman yang mereka buat. Bahasa tersebut bernama OAK. Namun, ternyata nama OAK sudah ada yang menggunakan. Sehingga, nama OAK diubah namanya menjadi Java. Nama Java terinspirasi dari secangkir kopi yang diminum berasal dari Pulau Jawa, Indonesia. Akhirnya dibuatlah bahasa pemrograman Java dengan logo secangkir kopi. Setelah itu nama Java mulai terdengar, sehingga berbagai industri dan universitaspun banyak yang meliriknya. Java merupakan bahasa pemrograman yang lebih sederhana dan dapat mengakomodasikan hampir seluruh fitur penting bahasa pemrograman lain.
+
+Kelebihan program Java antara lain:
+- Multiplatform. Kelebihan Java yang utama antara lain adalah bisa dijalankan di berbagai platform. Di OS manapun tetap bisa menjalankan program Java tanpa terkecuali
+- OOP (Object Oriented Programming) yang dimana semua aspek Java ini berbasis objek. Java merupakan salah satu bahasa pemrograman berbasis oebjek secara murni. Semua tipe data diturunkan dari kelas dasar yang disebut Object. Hal ini sangat memudahkan pemrogram untuk mendesain, membuat, mengembangkan dan mengalokasi kesalahan sebuah program dengan basis Java secara cepat, tepat, mudah dan terorganisir.
+- Memiliki Package/Library yang lengkap. Java memiliki Library yang lengkap yang sangat memudahkan dalam penggunaan oleh para pemrogram untuk membangun aplikasinya
+- Bergaya C++, memiliki sintaks seperti bahasa pemrograman (C++) sehingga menarik banyak pemrogram C++ untuk pindah ke Java
+- Pengumpulan sampah otomatis, memiliki fasilitas pengaturan penggunaan memori sehingga para pemrogram tidak perlu melakukan pengaturan memori secara langsung (seperti halnya dalam bahasa C++ yang dipakai secara luas)
+
 
 > ### Baru Belajar? Mulai dari [sini](learn/basic/) 🌟
 > ### Atau kalian bisa  [Nonton Video Materi Terlebih Dulu](https://youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) 🌟
@@ -58,8 +66,9 @@ Jika kamu masih bingung gimana cara mempelajari OOP ini, tenang aja ada materi V
 ## 🎓 Topik Lanjutan 🎓
 
 Jika kalian sudah menguasai dasar - dasar pemograman berserta dengan paradigma _Object Oriented Programming_, kalian bisa langsung mengeksplorasi topik - topik lain yang jauh lebih menantang dan tidak kalah seru. Di repositori ini, kami telah menyiapkan beberapa topik yang mungkin kamu suka. <br> 
-1. [Image Processing](learn/advanced/ImageProcessing/) <br>
-2. [Java GUI](learn/advanced/Java-GUI/) <br>
+- [Lambda Expression](Java/learn/intermediate/JavaLambdaExpressions/) <br>
+- [Image Processing](learn/advanced/ImageProcessing/) <br>
+- [Java GUI](learn/advanced/Java-GUI/) <br>
 [COMING SOON](https://image.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_1017-26690.jpg)
 
 ## 📃 Panduan Pengunaan 📃
@@ -105,10 +114,12 @@ Semua _script_ yang ada pada repositori ini, dapat diakses dengan cepat lewat li
 
 Bantuan kalian diperlukan! Untuk Bellshade dapat lebih jauh lagi membantu anak - anak Indonesia belajar _programming_, kita butuh tenaga kalian.
 
-> "Dengan Bellshade, aku jadi bisa _ngoding_! Terima kasih Bellshade!!"
+> "Dengan Bellshade, aku jadi bisa jago _ngoding_! Terima kasih Bellshade!! :smiley:"
 
 Kami sangat senang bila kalian ingin melakukan kontribusi pada repositori **Java** ini. Tapi, sebelum itu, silahkan baca terlebih dahulu [peraturan dan pedomannya](CONTRIBUTING.md) yang telah kami siapkan. Terima kasih!
 
-Dan jika ada seseorang berbaik hati mendonasikan bisa [disini](https://saweria.co/bellshade) ya
+Dan jika ingin berdonasi bisa [disini](https://saweria.co/bellshade) ya
 
 Untuk informasi lebih lanjut, bergabunglah dalam komunitas kami [Discord Channel WPU](http://discord.gg/S4rrXQU)
+
+#SalamBellshade #BellshadeMembuatkuJagoCoding
