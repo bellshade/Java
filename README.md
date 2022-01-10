@@ -97,6 +97,7 @@ Semua _script_ yang ada pada repositori ini, dapat diakses dengan cepat lewat li
 - [Lanjutan (Menengah)](learn/intermediate/)
 - [Lanjutan (Advanced)](learn/advanced/)
 - [Algoritma Java](algorithm/)
+- [Struktur Data Java](algorithm/data-structure/)
 - [Utilitas pada Java](utilities/)
 - [Object Oriented Programing](learn/intermediate/object_oriented_programming/)
 
