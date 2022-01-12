@@ -5,7 +5,7 @@ Operator adalah suatu simbol yang digunakan untuk memberikan instruksi kepada ko
 Setiap operator pasti memiliki lambang yang berbeda-beda, berikut jenis-jenis operator yang tersedia dalam Java, jadi kami sarankan untuk belajar mengikuti alur dalam operator. Jenis-jenis operator yang tersedia dalam Java adalah sbg berikut
 
 - [Aritmatika](https://github.com/bellshade/Java/tree/main/learn/basic/Operator/Aritmatika)
-- [Unary]()
+- [Unary](https://github.com/bellshade/Java/tree/main/learn/basic/Operator/Unary)
 - [Penugasan](https://github.com/bellshade/Java/tree/main/learn/basic/Operator/Penugasan)
 - [Komparasi](https://github.com/bellshade/Java/tree/main/learn/basic/Operator/Komparasi)
 - [Logika](https://github.com/bellshade/Java/tree/main/learn/basic/Operator/Logika)
