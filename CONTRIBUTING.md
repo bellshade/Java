@@ -39,7 +39,7 @@ Algoritma harus memiliki:
 **contoh penggunaan variabel yang baik pada java**
 kami menyarankan agar menggunakan struktur kode variable pada java seperti dibawah ini
 ```java
-public class nama_file {
+public class NamaFile {
     public static void main(String[] args) {
         int angka_saya = 12;
         double angka_saya_kedua = 13.2f;
@@ -47,7 +47,7 @@ public class nama_file {
 }
 ```
 
-- jika menggunakan kelas (class) kami mengusahakan untuk kapitalisasi
+- jika menggunakan kelas (class) kami menyarankan untuk kapitalisasi
 ```java
 class NamaMurid {
     // kode disini
@@ -80,9 +80,10 @@ count_bullet_speed
 ```
 
 ```bash
-git checkout -b <branch_name>
+git checkout -b <branch_name_buatan_kamu>
 git add .
 git commit -m "add: menambahkan algoritma baru"
+git push origin <branch_name_yang_kamu_buat>
 ```
 
 - Lakukan push ke branch kamu dan kemudian open pull request
@@ -104,4 +105,4 @@ Pull request `merged` jika:
 - Jika ada kendala atau masalah dalam pull request, kamu bisa laporkan masalah pada [issue](https://github.com/bellshade/JavaAlgorithm/issues)
 - Jika ada test yang tidak lewat atau gagal, kami akan mengecek kembali perubahan.
 
-Untuk pull request kami sarankan untuk menjelaskan secara detail yang kamu ubah atau tambahkan, dan bersikap sopan, serta selalu berterima kasih, itu salah satu bentuk tata krama yang baik terhadap sesama contributor dan programmer lainnya.terima kasih sudah berkontribusi di **JavaAlgorithm**.
+Untuk pull request kami sarankan untuk menjelaskan secara detail yang kamu ubah atau tambahkan, dan bersikap sopan, serta selalu berterima kasih, itu salah satu bentuk tata krama yang baik terhadap sesama contributor dan programmer lainnya.terima kasih sudah berkontribusi di **Bellshade Java**.
