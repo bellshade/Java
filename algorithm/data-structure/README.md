@@ -6,11 +6,11 @@ Dalam teknik pemrograman, struktur data berarti tata letak data yang berisi kolo
 Setiap bahasa pemrograman pasti memiliki Struktur Data yang sama, tetapi memiliki cara penulisan *pseudocode* yang berbeda-beda. 
 
 Jenis-jenis Struktur Data pada Java yakni
-- [Array](https://image.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg)
-- [Linked List](https://image.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg)
-- [Stack](https://image.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg)
-- [Queue](https://image.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg)
-- [Sorting](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Sorting)
-- [Binary Tree](https://image.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg)
+- [Array](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Array)
+- [Linked List](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+- [Stack](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+- [Queue](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+- [Sorting](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+- [Binary Tree](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
 
 Jangan lupa, tetap dipelajari Struktur Data juga ya!!! bisa memahami Struktur Data akan membuatmu baik kedepan dalam memnyusun algoritma. :sunglasses: :+1:
