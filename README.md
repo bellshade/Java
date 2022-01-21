@@ -73,7 +73,7 @@ Nb: Pastikan sesuai dengan alur belajarnya ya. Ingat, "buru-buru tidak perlu, pr
 
 Setelah menyelesaikan seluruh rangkaian pengenalan dasar pemrograman, kalian dapat mulai untuk mempelajari materi lain yang jauh lebih seru!
 
-Mulailah belajar konsep dan pemrograman Java dengan dasar-dasar _[Object-Oriented Programming](learn/intermediate/object_oriented_programming/oop_basic)_
+Mulailah belajar konsep dan pemrograman Java dengan dasar-dasar _[Object-Oriented Programming](learn/intermediate/object_oriented_programming/oop_basic)_.
 
 Apabila kalian telah mempelajari tingkat dasar _Object-Oriented Programming_ (Pemrograman Berorientasi Objek), maka selanjutnya kalian bisa mempelajari tingkat [lanjutan](learn/intermediate/object_oriented_programming/oop_intermediate).
 
