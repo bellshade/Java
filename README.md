@@ -87,7 +87,7 @@ Jika kalian telah menguasai dasar-dasar pemrograman beserta dengan paradigma _Ob
 - [Image Processing](learn/advanced/ImageProcessing/) 
 - [Java GUI](learn/advanced/Java-GUI/)
 
-![COMING SOON](https://image.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_1017-26690.jpg)
+[COMING SOON](https://image.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_1017-26690.jpg)
 
 ## 📃 Panduan Penggunaan 📃
 
