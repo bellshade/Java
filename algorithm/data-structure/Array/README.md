@@ -6,5 +6,5 @@ Struktur data paling dasar untuk menyimpan dan mengakses sebuah koleksi dari dat
 
 Array sendiri dibagi menjadi tiga, yakni:
 - [Array Dimensi Satu](https://github.com/bellshade/Java/blob/main/algorithm/data-structure/Array/ArrayDimensiSatu/ArraySatuD.java)
-- [Array Dimensi Dua](https://image.freepik.com/free-vector/abstract-coming-soon-background-torn-paper-style_1017-25514.jpg)
-- [Array Dimensi Tiga](https://image.freepik.com/free-vector/abstract-coming-soon-background-torn-paper-style_1017-25514.jpg)
+- [Array Dimensi Dua](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Array/ArrayDimensiDua)
+- [Array Dimensi Tiga](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Array/ArrayDimensiTiga)
