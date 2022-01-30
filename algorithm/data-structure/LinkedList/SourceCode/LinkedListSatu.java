@@ -2,15 +2,18 @@ import java.util.*;
 
 public class LinkedListSatu {
     public static void main(String[] args) {
-        LinkedList<Integer> cth = new LinkedList<Integer>();
+        try {
+            LinkedList<Integer> tst = new LinkedList<Integer>();
 
-        cth.add(123);
-        cth.add(456);
-        cth.add(789);
+            tst.add(123);
+            tst.add(456);
+            tst.add(789);
+            System.out.println("Elemen di dalam Linked List : " + tst);
 
-        Iterator j = cth.descendingIterator();
-        while(j.hasNext()) {
-            System.out.println(j.next());
+            int nilai = tst.element();
+            System.out.println("Awal list dalam Linked List : " + lst);
+        } catch(NullPointerException e) {
+            System.out.println("Pengecualian : " + e);
         }
     }
 }
