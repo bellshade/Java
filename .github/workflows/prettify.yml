@@ -15,5 +15,5 @@ jobs:
           prettier_option: --write **/*.java
           commit_message: 'reformat kode java'
         env:
-          GITHUB_TOKEN: ${{ secret.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
