@@ -3,12 +3,12 @@ import java.util.LinkedList;
 public class LinkedListSatu {
     public static void main(String[] args) throws Exception {
         try {
-            LinkedList<Integer> tst = new LinkedList<Integer>();
+            LinkedList<Integer> yt = new LinkedList<Integer>();
 
-            tst.add(123);
-            tst.add(456);
-            tst.add(789);
-            System.out.println("Elemen di dalam Linked List : " + tst);
+            yt.add(123);
+            yt.add(456);
+            yt.add(789);
+            System.out.println("Elemen di dalam Linked List : " + yt);
         } catch(NullPointerException e) {
             System.out.println("Pengecualian : " + e);
         }
