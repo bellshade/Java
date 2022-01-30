@@ -1,23 +1,19 @@
 name: Prettier
-
-on:
-  push:
-    branches: [main]
-
+on: [push, pull_request]
 jobs:
-  cleanup_tasks:
+  prettier:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Cloning the repository
-      uses: actions/checkout@v1
-      with:
-        fetch-depth: 1
-        
-    - name: Prettify the JS Code
-      uses: lwerner-lshigh/prettier_action_java@v1.1.1
-      with:
-        prettier_options: '--no-semi --write *.java'
-        branch: main
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: checkout file java
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      
+      - name: reformat kode
+        uses: creyD/prettier_action@v3.3
+        with:
+          prettier_option: --write **/*.java
+          commit_message: 'reformat kode java'
+        env:
+          GITHUB_TOKEN: ${{ secret.GITHUB_TOKEN }}
+          
