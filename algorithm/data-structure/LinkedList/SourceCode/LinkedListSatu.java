@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.LinkedList;
 
 public class LinkedListSatu {
     public static void main(String[] args) {
@@ -9,9 +9,6 @@ public class LinkedListSatu {
             tst.add(456);
             tst.add(789);
             System.out.println("Elemen di dalam Linked List : " + tst);
-
-            int nilai = tst.element();
-            System.out.println("Awal list dalam Linked List : " + tst);
         } catch(NullPointerException e) {
             System.out.println("Pengecualian : " + e);
         }
