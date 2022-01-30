@@ -11,7 +11,7 @@ public class LinkedListSatu {
             System.out.println("Elemen di dalam Linked List : " + tst);
 
             int nilai = tst.element();
-            System.out.println("Awal list dalam Linked List : " + lst);
+            System.out.println("Awal list dalam Linked List : " + tst);
         } catch(NullPointerException e) {
             System.out.println("Pengecualian : " + e);
         }
