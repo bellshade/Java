@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 
 public class LinkedListSatu {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         try {
             LinkedList<Integer> tst = new LinkedList<Integer>();
 
