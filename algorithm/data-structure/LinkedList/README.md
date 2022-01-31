@@ -84,7 +84,7 @@ public class LinkedList<E> extends AbstractSequentialList<E> implements List<E>,
 >Contoh Java Linked List
 
 ```java
-import java.util.*;
+import java.util.LinkedList;
 
 public class Main {
     public static void main(String[] args) {
@@ -122,7 +122,7 @@ Lima
 >Contoh Java Linked List menambahkan elemen ke `list`
 
 ```java
-import java.util.*;  
+import java.util.LinkedList;  
 
 public class Main {
     public static void main(String[] args) {
@@ -165,7 +165,7 @@ public class Main {
 >Contoh Java Linked List untuk menghapus elemen
 
 ```java
-import java.util.*;
+import java.util.LinkedList;
 
 public class Main {
     public static void main(String[] args) {
@@ -244,7 +244,7 @@ Setelah menambahkan method clear() : []
 >Contoh Java Linked List untuk membalikkan elemen
 
 ```java
-import java.util.*;
+import java.util.LinkedList;
 
 public class Main {
     public static void main(String[] args) {
@@ -264,4 +264,4 @@ public class Main {
 }
 ```
 
-Baik, itu saja dokumentasi penjelasan mengenai Linked List, selanjutnya kamu dapa mencoba program diatas, atau kamu bisa langsung mencobanya [disini]()
+Baik, itu saja dokumentasi penjelasan mengenai Linked List, selanjutnya kamu dapa mencoba program diatas, atau kamu bisa langsung mencobanya [disini](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/LinkedList/SourceCode)
