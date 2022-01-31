@@ -7,8 +7,8 @@ Setiap bahasa pemrograman pasti memiliki Struktur Data yang sama, tetapi memilik
 
 Jenis-jenis Struktur Data pada Java yakni
 - [Array](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Array)
-- [Linked List](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
-- [Stack](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+- [Linked List](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/LinkedList)
+- [Stack](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Stack)
 - [Queue](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
 - [Sorting](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
 - [Binary Tree](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
