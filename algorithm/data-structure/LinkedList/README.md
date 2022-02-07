@@ -14,7 +14,7 @@ Poin-poin penting dalam Java Linked List:
 - `class` Java Linked List dapat berisikan untuk mempertahankan urutan penyisipan
 - `class` Java Linked List tidak dapat di sinkronisasikan
 - `class` Java Linked List memiliki manipulasi yang cepat, hal itu menyebabkan tidak perlu terjadi pergeseran
-- `class` Java Linked List bisa digunakan sebagai [List](https://image.freepik.com/free-vector/coming-soon-construction-illustration-design_1017-31446.jpg), [Stack](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Stack), dan [Queue](https://image.freepik.com/free-vector/coming-soon-construction-illustration-design_1017-31446.jpg)
+- `class` Java Linked List bisa digunakan sebagai [List](https://image.freepik.com/free-vector/coming-soon-construction-illustration-design_1017-31446.jpg), [Stack](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Stack), dan [Queue](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Queue)
 
 > Bagaimana Linked List bekerja secara internal?
 >
