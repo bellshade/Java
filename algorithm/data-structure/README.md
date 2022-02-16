@@ -11,7 +11,7 @@ Jenis-jenis Struktur Data pada Java yakni
 - [Stack](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Stack)
 - [Queue](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Queue)
 - [Sorting](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Sorting)
-- [Binary Tree](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+- [Tree](https://github.com/bellshade/Java/tree/main/algorithm/data-structure/Tree)
 - [Graph](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
 - [Searching](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
 
