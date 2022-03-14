@@ -49,22 +49,22 @@ Pada tahun 1994, terbentuklah sebuah nama untuk bahasa pemrograman yang mereka b
 
 | Langkah |             Topik              |                                        Target Pembelajaran                                        |             Video Rujukan             |                     Materi                      |
 | :-----: | :----------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------: | :---------------------------------------------: |
-|   01    | Pendahuluan Pemrograman dan Java |        Memahami program dasar Java         | [Video](https://youtu.be/uHyfQV0kbgo) |     [Materi](learn/basic/HelloWorld.java/)      |
-|   02    | Variabel dan Tipe Data |        Memahami apa itu variabel dan tipe data di Java         | [Video](https://youtu.be/ddK6hExKhmM) |     [Materi](learn/basic/TipeData/)      |
-|   03    | Data Casting |        Memahami data casting pada sebuah variabel di Java         | [Video](https://youtu.be/IRis_1jMi1w) |     [Materi](learn/basic/DataCasting/)      |
-|   04    | Operator Aritmatika |        Memahami operator perhitungan aritmatika dalam Java         | [Video](https://youtu.be/FlbBdWUC0YU) |     [Materi](learn/basic/Operator/Aritmatika.java/)      |
-|   05    | Operator Komparasi |        Memahami operator perbandingan dalam Java         | [Video](https://youtu.be/KiQDo3yZDnI) |     [Materi](learn/basic/Operator/Comparasion.java/)      |
-|   06    | Operator Boolean |        Memahami operator logika (boolean) dalam Java         | [Video](https://youtu.be/wOnpqaWVM3E) |     [Materi](learn/basic/Operator/Logical.java/)      |
-|   07    | Struktur Kontrol (If-Else) |        Memahami pengkondisian atau struktur kontrol if-else dalam Java         | [Video](https://youtu.be/492A2poEoow) |     [Materi](learn/basic/StatementLogika/IfElse.java/)      |
-|   08    | Struktur Kontrol (Switch-Case) |        Memahami pengkondisian atau struktur kontrol switch-case dalam Java         | [Video](https://youtu.be/_OwCDThM3EI) |     [Materi](learn/basic/StatementLogika/SwitchJava.java/)      |
-|   09    | Perulangan atau Looping (While) |        Memahami perulangan while dalam Java         | [Video](https://youtu.be/KcsFEZerRDk) |     [Materi](learn/basic/BasicLooping/WhileLooping.java/)      |
-|   10    | Perulangan atau Looping (Do-While) |        Memahami perulangan do-while dalam Java         | [Video](https://youtu.be/E9khhPRn8aQ) |     [Materi](learn/basic/BasicLooping/DoWhile.java/)      |
-|   11    | Perulangan atau Looping (For) |        Memahami perulangan for dalam Java         | [Video](https://youtu.be/OAiZZqiSzxo) |     [Materi](learn/basic/BasicLooping/ForStatement.java/)      |
-|   12    | Rekursif  |        Memahami rekursif dalam Java         | [Video](https://youtu.be/wdrSmK18nj4) |     [Materi](learn/basic/Recursive/Recursive.java/)      |
-|   13    | Array |        Memahami array dalam Java         | [Video](https://youtu.be/Oa4FvgsCByw) |     [Materi](learn/basic/BasicArray/BasicArray.java/)      |
-|   14    | Array Multi Dimensi |        Memahami array multi dimensi dalam Java         | [Video](https://youtu.be/RN-ZVxdSWSM) |     [Materi](lear5/basic/MultiDimentionalArray/MultiDimensionalArray.java/)      |
-|   15    | String |        Memahami string dalam Java         | [Video](https://youtu.be/BAtdw48XTMc) |     [Materi](learn/basic/String/StringJava.java/)      |
-|   16    | String Method |        Memahami berbagai metode string dalam Java         | [Video](https://youtu.be/BAtdw48XTMc) |     [Materi](learn/basic/String/StringJava.java/)      |
+|   01    | Pendahuluan Pemrograman dan Java |        Memahami program dasar Java         | [Video](https://youtu.be/uHyfQV0kbgo) |     [Materi](src\main\java\com\bellshade\learn\basic\HelloWorld.java)      |
+|   02    | Variabel dan Tipe Data |        Memahami apa itu variabel dan tipe data di Java         | [Video](https://youtu.be/ddK6hExKhmM) |     [Materi](src\main\java\com\bellshade\learn\basic\TipeData)      |
+|   03    | Data Casting |        Memahami data casting pada sebuah variabel di Java         | [Video](https://youtu.be/IRis_1jMi1w) |     [Materi](src\main\java\com\bellshade\learn\basic\DataCasting)      |
+|   04    | Operator Aritmatika |        Memahami operator perhitungan aritmatika dalam Java         | [Video](https://youtu.be/FlbBdWUC0YU) |     [Materi](src\main\java\com\bellshade\learn\basic\Operator\Aritmatika\Aritmatika.java)      |
+|   05    | Operator Komparasi |        Memahami operator perbandingan dalam Java         | [Video](https://youtu.be/KiQDo3yZDnI) |     [Materi](src\main\java\com\bellshade\learn\basic\Operator\Komparasi\Comparison.java)      |
+|   06    | Operator Boolean |        Memahami operator logika (boolean) dalam Java         | [Video](https://youtu.be/wOnpqaWVM3E) |     [Materi](src\main\java\com\bellshade\learn\basic\Operator\Logika\Logical.java)      |
+|   07    | Struktur Kontrol (If-Else) |        Memahami pengkondisian atau struktur kontrol if-else dalam Java         | [Video](https://youtu.be/492A2poEoow) |     [Materi](src\main\java\com\bellshade\learn\basic\StrukturKontrol\Percabangan\IfElse\IfElse.java)      |
+|   08    | Struktur Kontrol (Switch-Case) |        Memahami pengkondisian atau struktur kontrol switch-case dalam Java         | [Video](https://youtu.be/_OwCDThM3EI) |     [Materi](src\main\java\com\bellshade\learn\basic\StrukturKontrol\SwitchCase\SwitchJava.java)      |
+|   09    | Perulangan atau Looping (While) |        Memahami perulangan while dalam Java         | [Video](https://youtu.be/KcsFEZerRDk) |     [Materi](src\main\java\com\bellshade\learn\basic\Looping\While\WhileLooping.java)      |
+|   10    | Perulangan atau Looping (Do-While) |        Memahami perulangan do-while dalam Java         | [Video](https://youtu.be/E9khhPRn8aQ) |     [Materi](src\main\java\com\bellshade\learn\basic\Looping\DoWhile\DoWhile.java)      |
+|   11    | Perulangan atau Looping (For) |        Memahami perulangan for dalam Java         | [Video](https://youtu.be/OAiZZqiSzxo) |     [Materi](src\main\java\com\bellshade\learn\basic\Looping\For\ForStatement.java)      |
+|   12    | Rekursif  |        Memahami rekursif dalam Java         | [Video](https://youtu.be/wdrSmK18nj4) |     [Materi](src\main\java\com\bellshade\learn\basic\Recursive\Recursive.java)      |
+|   13    | Array |        Memahami array dalam Java         | [Video](https://youtu.be/Oa4FvgsCByw) |     [Materi](src\main\java\com\bellshade\learn\basic\Array\BasicArray\BasicArray.java)      |
+|   14    | Array Multi Dimensi |        Memahami array multi dimensi dalam Java         | [Video](https://youtu.be/RN-ZVxdSWSM) |     [Materi](src\main\java\com\bellshade\learn\basic\Array\MultiDimentionalArray\MultidimensionalArray.java)      |
+|   15    | String |        Memahami string dalam Java         | [Video](https://youtu.be/BAtdw48XTMc) |     [Materi](src\main\java\com\bellshade\learn\basic\String\StringJava.java)      |
+|   16    | String Method |        Memahami berbagai metode string dalam Java         | [Video](https://youtu.be/BAtdw48XTMc) |     [Materi](src\main\java\com\bellshade\learn\basic\String\StringJavaMethod.java)      |
 
 
 Nb: Pastikan sesuai dengan alur belajarnya ya. Ingat, "buru-buru tidak perlu, proses nomor satu" 😁 🤙
@@ -73,9 +73,9 @@ Nb: Pastikan sesuai dengan alur belajarnya ya. Ingat, "buru-buru tidak perlu, pr
 
 Setelah menyelesaikan seluruh rangkaian pengenalan dasar pemrograman, kalian dapat mulai untuk mempelajari materi lain yang jauh lebih seru!
 
-Mulailah belajar konsep dan pemrograman Java dengan dasar-dasar _[Object-Oriented Programming](learn/intermediate/object_oriented_programming/oop_basic)_.
+Mulailah belajar konsep dan pemrograman Java dengan dasar-dasar _[Object-Oriented Programming](src\main\java\com\bellshade\learn\intermediate\object_oriented_programming\oop_basic)_.
 
-Apabila kalian telah mempelajari tingkat dasar _Object-Oriented Programming_ (Pemrograman Berorientasi Objek), maka selanjutnya kalian bisa mempelajari tingkat [lanjutan](learn/intermediate/object_oriented_programming/oop_intermediate).
+Apabila kalian telah mempelajari tingkat dasar _Object-Oriented Programming_ (Pemrograman Berorientasi Objek), maka selanjutnya kalian bisa mempelajari tingkat [lanjutan](src\main\java\com\bellshade\learn\intermediate\object_oriented_programming\oop_intermediate).
 
 Jika kalian masih bingung bagaimana cara mempelajari konsep OOP ini, tenang saja, ada materi video yang bisa kalian [tonton di _playlist_ ini](https://youtube.com/playlist?list=PLZS-MHyEIRo6V4_vk1s1NcM2HoW5KFG7i).
 
@@ -83,9 +83,9 @@ Jika kalian masih bingung bagaimana cara mempelajari konsep OOP ini, tenang saja
 
 Jika kalian telah menguasai dasar-dasar pemrograman beserta dengan paradigma _Object-Oriented Programming_, kalian bisa langsung mengeksplorasi materi lain yang jauh lebih menantang dan tidak kalah seru. Di repositori ini, kami telah menyiapkan beberapa materi yang mungkin kalian tertarik untuk mempelajarinya.
 
-- [Lambda Expression](Java/learn/intermediate/JavaLambdaExpressions/) 
-- [Image Processing](learn/advanced/ImageProcessing/) 
-- [Java GUI](learn/advanced/Java-GUI/)
+- [Lambda Expression](src\main\java\com\bellshade\learn\intermediate\JavaLambdaExpressions) 
+- [Image Processing](src\main\java\com\bellshade\learn\advanced\ImageProcessing\ColoredImageGrayScale\Programnya.java) 
+- [Java GUI](src\main\java\com\bellshade\learn\advanced\JavaGUI)
 
 [COMING SOON](https://image.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_1017-26690.jpg)
 
@@ -122,13 +122,13 @@ Jika masih bingung bagaimana cara meng-_compile_ atau menjalankan program Java, 
 
 Semua _source code_ yang ada di repositori ini dapat kalian akses dengan cepat melalui link berikut.
 
-- [Java Basics](learn/basic/)
-- [Lanjutan Java (Intermediate)](learn/intermediate/)
-- [Lanjutan Java (Advanced)](learn/advanced/)
-- [Algoritma Java](algorithm/)
-- [Struktur Data Java](algorithm/data-structure/)
-- [Utilitas pada Java](utilities/)
-- [Java Object-Oriented Programming](learn/intermediate/object_oriented_programming/)
+- [Java Basics](src\main\java\com\bellshade\learn\basic)
+- [Lanjutan Java (Intermediate)](src\main\java\com\bellshade\learn\intermediate)
+- [Lanjutan Java (Advanced)](src\main\java\com\bellshade\learn\advanced)
+- [Algoritma Java](src\main\java\com\bellshade\algorithm)
+- [Struktur Data Java](src\main\java\com\bellshade\algorithm\datastructure)
+- [Utilitas pada Java](src\main\java\com\bellshade\utilities)
+- [Java Object-Oriented Programming](src\main\java\com\bellshade\learn\intermediate\object_oriented_programming)
 
 ## 🤩 Ayo Ikut Kami dan Berkontribusi! 🤩
 
