@@ -74,7 +74,7 @@ java NamaFile.java
 - Setelah merubah, menambah, atau perbaikan dokumentasi, usahakan kamu membuat _branch_ baru sebelum melakukan _Pull Request (PR)_
 
 **tambahan perubahan**
-jika ingin menambahkan algoritma atau _script_ Java, kamu bisa menambahkan perubahan di folder ``other`` atau ``namaPackage`` di dalam _package_ ```src\main\java```. Jika terdapat beberapa __*file*__, sebaiknya __*file-file*__ tersebut dimasukkan ke dalam satu folder yang sesuai dengan nama __*script*__ tersebut sebagai contoh
+jika ingin menambahkan algoritma atau _script_ Java, kamu bisa menambahkan perubahan di folder ``other`` atau ``namaPackage`` di dalam _package_ ```src\main\java```. Jika terdapat beberapa __*file*__, sebaiknya __*file-file*__ tersebut dimasukkan ke dalam satu folder yang sesuai dengan nama __*script*__ tersebut sebagai contoh :
 
 ```
 countBulletSpeed
