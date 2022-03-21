@@ -91,9 +91,13 @@ Jika kalian telah menguasai dasar-dasar pemrograman beserta dengan paradigma _Ob
 
 ## 📃 Panduan Penggunaan 📃
 
+Terdapat beberapa cara untuk meng-_compile_ program Java di project ini. Anda dapat menggunakan IDE (_Integrated Development Environment_) seperti NetBean, Eclips, dst. Selain itu ada dapat menggunakan _Code Editor_ seperti VS Code (Visual Studio Code) dengan menambahakan _extention-extention_ tertentu.
+
+1. **Menggunakan IDE (NetBean, Eclips, dst)**
+
 Seluruh kode yang tersedia di repositori ini dapat kalian jalankan dengan melakukan kompilasi terlebih dahulu. 
 
-Sebelum kalian meng-_compile_ program Java, kalian membutuhkan Java SDK (Java JDK + Java JRE) dan *code editor* atau IDE.
+Sebelum kalian meng-_compile_ program Java, kalian membutuhkan Java SDK (Java JDK + Java JRE) dan IDE.
 
 Kalian bisa mengunduh *compiler* Java SDK (Software Development Kit) di link berikut.
 
@@ -117,6 +121,24 @@ java source_code
 > Pastikan untuk selalu memperhatikan _source code_ dengan benar ketika terjadi _error_. Dikarenakan kode Java bersifat _case-sensitive_.
 
 Jika masih bingung bagaimana cara meng-_compile_ atau menjalankan program Java, silakan lihat caranya [di sini](https://www.tutorialpemrograman.com/desktop/cara-compile-dan-run-program-java-dengan-cmd-di-windows-10/).
+
+2. **Menggunakan _Code Editor_ Visual Studio Code (VS Code)**
+
+Jika anda belum pernah menggunakan VS Code anda dapat mengunduh VS Code dengan _coding pack_ untuk java. Dengan _coding pack_ ini dapat membantu anda untuk menyiapkan VS Code dengan cepat dimana dalam _pack_ ini sudah terdapat VS Code, Java Developtment Kit (JDK), dan _Java Extention Pack_. Silahkan mengikuti tutorial link dibawah untuk detailnya.
+
+- [Tutorial instalasi VS Code dengan java _coding pack_](https://code.visualstudio.com/docs/java/java-tutorial#_coding-pack-for-java)
+> Instalasi diatas hanya berlaku untuk Sistem Operasi Windows dan macOs, untuk sistem operasi lain anda harus menginstal sendiri VsCode, JDK, dan java Extention Pack nya secara manual.
+
+Jika anda sudah pernah menggunakan VS Code silahkan tambahkan extention _Extension Pack for Java_ dan _Language Support for Java(TM) by Red Hat_ di VS Code. Pastikan ada sudah menginstal JDK di Sistem Operasi anda. Silahkan mengikuti tutorial berikut untuk menambahkan JDK di VS Code.
+
+- [Tutorial instalasi java extensions VS Code](https://code.visualstudio.com/docs/java/java-tutorial#_installing-extensions)
+- [Tutorial Unduh JDK dari VS Code](https://code.visualstudio.com/docs/java/java-project#_download-jdks)
+
+
+Untuk totorial yang lebih detail tentang VS Code untuk Java, anda dapat mengunjungi [Toturial official di Website VS Code](https://code.visualstudio.com/docs/java/java-tutorial). 
+
+Setelah VS Code anda siap, anda dapat meng-_compile_ atau menjalankan program java dengan cara klik kanan file dengan extensi *.java setelah itu pilih ```Run Java```
+
 
 ## ⚡ Quick Access ⚡
 
