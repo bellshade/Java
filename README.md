@@ -124,12 +124,12 @@ Jika masih bingung bagaimana cara meng-_compile_ atau menjalankan program Java, 
 
 2. **Menggunakan _Code Editor_ Visual Studio Code (VS Code)**
 
-Jika anda belum pernah menggunakan VS Code anda dapat mengunduh VS Code dengan _coding pack_ untuk java. Dengan _coding pack_ ini dapat membantu anda untuk menyiapkan VS Code dengan cepat dimana dalam _pack_ ini sudah terdapat VS Code, Java Developtment Kit (JDK), dan _Java Extention Pack_. Silahkan mengikuti tutorial link dibawah untuk detailnya.
+Jika anda belum pernah menggunakan VS Code anda dapat mengunduh VS Code dengan _coding pack_ untuk java. Dengan _coding pack_ ini dapat membantu anda untuk menyiapkan VS Code dengan cepat dimana dalam _pack_ ini sudah terdapat VS Code, Java Developtment Kit (JDK), dan _Java Extention Pack_. Silahkan mengikuti tutorial link di bawah untuk informasi lebih detail.
 
 - [Tutorial instalasi VS Code dengan java _coding pack_](https://code.visualstudio.com/docs/java/java-tutorial#_coding-pack-for-java)
-> Instalasi diatas hanya berlaku untuk Sistem Operasi Windows dan macOs, untuk sistem operasi lain anda harus menginstal sendiri VsCode, JDK, dan java Extention Pack nya secara manual.
+> Instalasi di atas hanya berlaku untuk Sistem Operasi Windows dan macOs, untuk Sistem Operasi lain anda harus meng-instal sendiri VS Code, JDK, dan _java Extention Pack_-nya secara manual.
 
-Jika anda sudah pernah menggunakan VS Code silahkan tambahkan extention _Extension Pack for Java_ dan _Language Support for Java(TM) by Red Hat_ di VS Code. Pastikan ada sudah menginstal JDK di Sistem Operasi anda. Silahkan mengikuti tutorial berikut untuk menambahkan JDK di VS Code.
+Jika anda sudah pernah menggunakan atau meng-_instal_ VS Code, silahkan tambahkan extention _Extension Pack for Java_ dan _Language Support for Java(TM) by Red Hat_ di VS Code. Pastikan ada sudah menginstal JDK di Sistem Operasi anda. Silahkan mengikuti tutorial berikut untuk menambahkan JDK di VS Code.
 
 - [Tutorial instalasi java extensions VS Code](https://code.visualstudio.com/docs/java/java-tutorial#_installing-extensions)
 - [Tutorial Unduh JDK dari VS Code](https://code.visualstudio.com/docs/java/java-project#_download-jdks)

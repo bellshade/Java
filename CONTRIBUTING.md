@@ -89,6 +89,7 @@ git commit -m "add: menambahkan algoritma baru"
 git push origin <branch_name_yang_kamu_buat>
 ```
 
+
 - Lakukan push ke _branch_ kamu dan kemudian open _Pull Request (PR)_
 
 ### Saran Pesan _Commit_
@@ -98,6 +99,8 @@ git push origin <branch_name_yang_kamu_buat>
 - `docs:` untuk mengubah atau membuat dokumentasi
 - `add:` untuk mengubah algoritma atau tambahan lainnya (opsional)
 
+> Untuk dokumentasi disarankan untuk tidak menggunakan nama dokumentasi
+
 _Pull Request (PR)_ `merged` jika:
 
 - Mengikuti standar dan arahan dari `CONTRIBUTING.md`
@@ -106,6 +109,6 @@ _Pull Request (PR)_ `merged` jika:
 ## Tambahan
 
 - Jika ada kendala atau masalah dalam _Pull Request (PR)_, kamu bisa laporkan masalah pada [_issue_](https://github.com/bellshade/JavaAlgorithm/issues)
-- Jika ada test yang tidak lewat atau gagal, kami akan mengecek kembali perubahan.
+- Jika ada _test_ yang tidak lewat atau gagal, kami akan mengecek kembali perubahan.
 
 Untuk _Pull Request (PR)_ kami sarankan untuk menjelaskan secara detail yang kamu ubah atau tambahkan, dan bersikap sopan, serta selalu berterima kasih, itu salah satu bentuk tata krama yang baik terhadap sesama contributor dan programmer lainnya.terima kasih sudah berkontribusi di **Bellshade Java**.
