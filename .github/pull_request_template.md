@@ -17,12 +17,12 @@
 # Environment
 Saya menggunakan (I'm using):
 
-- ``os`` = `Windows/Linux/Mac OS` <!-- jenis OS yang digunakan dalam pembuatan Pull Request -->
-- ``java`` = <!-- jenis Java Compiler yang digunakan dalam pembuatan Pull Request -->
+- ``OS`` = `Windows/Linux/Mac OS` <!-- jenis OS yang digunakan dalam pembuatan Pull Request -->
+- ``Java`` = <!-- jenis Java Compiler yang digunakan dalam pembuatan Pull Request -->
 
 <!-- Jika ada gagal pada salah satu test, kami akan mengeceknya kembali. -->
 <!-- If there is a failure in one of the tests, we will check it again. -->
 # Link Issues
 <!-- Jika ingin Pull Request sesuai issues, dimohon untuk menambahkan ISSUES yang sesuai -->
-Issues : #<!-- NOMOR ISSUES -->
+Issues : # <!-- NOMOR ISSUES -->
 <!--- ini bersifat opsional, jika ingin membuat sebuah PR tanpa issues, bisa dihapus untuk link issues -->
