@@ -25,3 +25,4 @@ Saya menggunakan (I'm using):
 # Link Issues
 <!-- Jika ingin Pull Request sesuai issues, dimohon untuk menambahkan ISSUES yang sesuai -->
 Issues : #<!-- NOMOR ISSUES -->
+<!--- ini bersifat opsional, jika ingin membuat sebuah PR tanpa issues, bisa dihapus untuk link issues -->
