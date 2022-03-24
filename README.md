@@ -141,7 +141,7 @@ Semua _source code_ yang ada di repositori ini dapat kalian akses dengan cepat m
 - [Lanjutan Java (Intermediate)](src/main/java/learn/intermediate)
 - [Lanjutan Java (Advanced)](src/main/java/learn/advanced)
 - [Algoritma Java](src/main/java/algorithm)
-- [Struktur data Java](src/main/java/algorithm/datastructure)
+- [Struktur Data Java](src/main/java/algorithm/datastructure)
 - [Utilitas pada Java](src/main/java/utilities)
 - [Java Object-Oriented Programming](src/main/java/learn/intermediate/object_oriented_programming)
 
