@@ -17,8 +17,8 @@
 # Environment
 Saya menggunakan (I'm using):
 
-- ``os`` = 
-- ``java`` = 
+- ``os`` = `Windows/Linux/Mac OS` <!-- jenis OS yang digunakan dalam pembuatan Pull Request -->
+- ``java`` = <!-- jenis Java Compiler yang digunakan dalam pembuatan Pull Request -->
 
 <!-- Jika ada gagal pada salah satu test, kami akan mengeceknya kembali. -->
 <!-- If there is a failure in one of the tests, we will check it again. -->
