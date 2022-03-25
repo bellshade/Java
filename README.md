@@ -16,7 +16,7 @@
 
 ## 🎉🎉 Selamat Datang di Java 🎉🎉
 
-[Selamat datang](https://github.com/bellshade/Java/blob/main/welcome.java) di repositori Java Bellshade. Repositori ini berisikan berbagai macam _source code_ program seperti struktur data, algoritma, dan sebagainya yang diimplementasikan dengan menggunakan bahasa pemrograman Java.
+[Selamat datang](src/main/java/welcome.java) di repositori Java Bellshade. Repositori ini berisikan berbagai macam _source code_ program seperti struktur data, algoritma, dan sebagainya yang diimplementasikan dengan menggunakan bahasa pemrograman Java.
 
 ## Apa itu Java?
 
