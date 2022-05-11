@@ -1,4 +1,4 @@
-package math;
+package maths;
 
 /*
 * program sederhana untuk menghitung faktor
@@ -50,6 +50,6 @@ public class GCD {
 
         System.out.println(gcd(arraySaya));
 
-        System.out.println("gcd(40,24)=%d\n",gcd(40, 24));
+        System.out.printf("gcd(40,24)=%d\n",gcd(40, 24));
     }
 }
