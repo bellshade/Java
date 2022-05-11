@@ -5,7 +5,7 @@ package maths;
 * persekutuan terbesar
 */
 
-public class GCD {
+public class FaktorPersekutuanTerbesar {
 
     /**
     * @param angka1 parameter angka pertama
