@@ -1,12 +1,13 @@
 package maths;
 
-/*
+/**
 * program sederhana untuk menghitung faktor
 * persekutuan terbesar
 */
 
 public class GCD {
-    /*
+
+    /**
     * @param angka1 parameter angka pertama
     * @param angka2 parameter angka kedua
     * @return hasil persekutuan terbesar
@@ -31,7 +32,7 @@ public class GCD {
         return angka2;
     }
 
-    /*
+    /**
     * membuat hasil dari fungsi static fungsi perseketuan
     * terbesar
     */
@@ -50,6 +51,6 @@ public class GCD {
 
         System.out.println(gcd(arraySaya));
 
-        System.out.printf("gcd(40,24)=%d\n",gcd(40, 24));
+        System.out.printf("gcd(40,24)=%d gcd(24,40)=%d%n",gcd(40, 24), gcd(24,40));
     }
 }
