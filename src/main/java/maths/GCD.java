@@ -39,7 +39,7 @@ public class GCD {
     public static int gcd(int[] angka) {
         int hasil = angka[0];
         for (int i = 1; i < angka.length; i++) {
-            result = gcd(result, angka[i]);
+            hasil = gcd(hasil, angka[i]);
         }
 
         return hasil;
