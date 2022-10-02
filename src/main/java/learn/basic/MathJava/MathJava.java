@@ -7,6 +7,7 @@ public class MathJava {
     public static void main(String[] args){
         int angka = 120;
         int angka_kedua = 81;
+        double angkaBerkoma = 15.5;
 
         // max(angka, angka)
         // mencari nilai tertinggi dari kedua angka
@@ -31,5 +32,17 @@ public class MathJava {
         // log(angka)
         // mencari nilai logaritma dari angka
         System.out.println(Math.log(angka_kedua));
-    }    
+
+        // PI
+        // Mengoutput nilai PI
+        System.out.println(Math.PI);
+
+        // Round(Angka)
+        /* Untuk membulatkan angka desimal ke angka integer terdekat.
+        Jika angka dibelakang koma >=5 maka akan dibulatkan keatas, angka +1 dan desimal hilang.
+        Jika angka dibelakang koma <5 maka akan dibulatkan kebawah, angka dibelakang koma dihilangkan.
+         */
+        System.out.println(Math.round(angkaBerkoma));
+
+    }
 }
