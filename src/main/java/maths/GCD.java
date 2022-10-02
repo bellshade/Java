@@ -1,4 +1,4 @@
-package math;
+package maths;
 
 /*
 * program sederhana untuk menghitung faktor
