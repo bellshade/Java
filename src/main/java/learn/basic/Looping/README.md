@@ -4,8 +4,9 @@ Looping atau dalam bahasa Indonesia nya adalah Perulangan adalah suatu fungsi pa
 
 Jenis-jenis Looping yang ada di Java, antara lain:
 
-- [For](https://github.com/bellshade/Java/tree/main/learn/basic/Looping/For)
-- [While](https://github.com/bellshade/Java/tree/main/learn/basic/Looping/While)
-- [Do While](https://github.com/bellshade/Java/tree/main/learn/basic/Looping/Do-While)
+- [For](https://github.com/bellshade/Java/blob/main/src/main/java/learn/basic/Looping/For)
+- [While](https://github.com/bellshade/Java/blob/main/src/main/java/learn/basic/Looping/While)
+- [Do While](https://github.com/bellshade/Java/blob/main/src/main/java/learn/basic/Looping/DoWhile)
+- [For Each](https://github.com/bellshade/Java/blob/main/src/main/java/learn/basic/Looping/ForEach)
 
 Pernyataan-pernyataan itu menciptakan loop. Loop secara berulang mengeksekusi barisan instruksi yang sama sampai kondisi akhir ditemui.

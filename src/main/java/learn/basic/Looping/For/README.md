@@ -17,4 +17,4 @@ ket: Dari contoh diatas, jika hanya satu pernyataan yang hendak diulang, maka di
 - `modifier` untuk menspesifikasikan cara variabel kendali dimodifikasi sebelum iterasi berikutnya atau bagian untuk memberikan penambahan nilai atau pengurangan
 Jika semua sudah terpenuhi, maka program mengeluarkan output langsung dari *syntax* `Statement;`
 
-Untuk lebih jelas program Looping `For` pada Java, kamu bisa langsung memperhatikan `source_code` nya [disini](https://github.com/bellshade/Java/blob/main/learn/basic/Looping/For/ForStatement.java)
+Untuk lebih jelas program Looping `For` pada Java, kamu bisa langsung memperhatikan `source_code` nya [disini](https://github.com/bellshade/Java/blob/main/src/main/java/learn/basic/Looping/For/ForStatement.java)

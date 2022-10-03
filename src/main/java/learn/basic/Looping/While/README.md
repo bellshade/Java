@@ -12,4 +12,4 @@ while (kondisi) {
 
 ket: Jika `kondis`i bernilai _true_, maka `Statement;` akan terus dieksekusi dan proses akan berlanjut diulangi terus menerus. Tetapi, jika `kondisi` berada sebelum badan pernyataan. Sehingga ketika `kondisi` sejak awal bernilai _false_, maka `Statement;` tidak akan  dieksekusi.
 
-Untuk lebih jelas program Looping `While` pada Java, kamu bisa langsung memperhatikan `source_code` nya [disini](https://github.com/bellshade/Java/blob/main/learn/basic/Looping/While/WhileLooping.java)
+Untuk lebih jelas program Looping `While` pada Java, kamu bisa langsung memperhatikan `source_code` nya [disini](https://github.com/bellshade/Java/blob/main/src/main/java/learn/basic/Looping/While/WhileLooping.java)
