@@ -7,6 +7,7 @@ public class ForEachStatement {
 
     // Melakukan looping foreach
     for (String city : cities) {
+      // print satu per satu data yang sedang di looping
       System.out.println(city);
     }
   }

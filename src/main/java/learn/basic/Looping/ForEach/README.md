@@ -10,7 +10,7 @@ for (tipe_data nama_variable : array) {
 }
 ```
 
-ket: Dari contoh diatas, jika hanya satu pernyataan yang hendak diulang, maka diperbolehkan tidak memakai pasangan kurung kurawal. Perulangan for mengulangi statement sejumlah tertentu menggunakan:
+Kekurangan dari looping `foreach` ini salah satunya adalah kita tidak bisa mendapatkan index dari data yang sedang kita lakukan perulangan
 
 - `tipe_data` untuk menentukan tipe data apa yang didapat dari perulangan array
 - `nama_variable` untuk menampung variable yang sedang dilakukan perulangan
