@@ -30,31 +30,34 @@ Jika tidak menggunakan `+1` nanti hasilnya akan tidak sesuai.
 int randomNumber = generateRandomNumber.nextInt(MINIMUM_NUMBER ,MAXIMUM_NUMBER + 1);
 ```
 
-4. Buat validasi untuk pengecekan jika inputan bukan angka. `Scanner` mempunyai method `hasNextInt()` yang dapat kita gunakan untuk mengetahui apakah inputan tersebut berupa angka atau bukan. 
-Disini kita looping menggunakan `while` sampai inputan yang diterima adalah angka. `scanner.next()` berfungsi agar tidak terjadi `infinite loop`
+4. Ini adalah method untuk validasi pengecekan jika inputan bukan angka dan harus berada dalam range yang ditentukan. `Scanner` mempunyai method `hasNextInt()` yang dapat kita gunakan untuk mengetahui apakah inputan tersebut berupa angka atau bukan. 
+Disini kita looping menggunakan `while` sampai inputan yang diterima sudah benar. `scanner.next()` berfungsi agar tidak terjadi `infinite loop`  
+Kita juga perlu mengembalikan inputan angka yang diterima.
 ```java
-private static void validateInputMustBeNumber(Scanner scanner) {
-  while (!scanner.hasNextInt()) {
+ private static int validateInput(Scanner scanner) {
+  boolean isInputInvalid = true;
+  int input = 0;
+
+  while (isInputInvalid) {
+    if (scanner.hasNextInt()) {
+      input = scanner.nextInt();
+
+      if (input < MINIMUM_NUMBER || input > MAXIMUM_NUMBER) {
+        System.out.printf("Input number must be between %s to %s. %n", MINIMUM_NUMBER, MAXIMUM_NUMBER);
+      } else {
+        isInputInvalid = false;
+      }
+    } else {
     System.out.println("Only number allowed!");
     scanner.next();
-  }
-}
-```
-
-5. Buat validasi untuk pengecekan angka yang diinput sesuai dalam range angka yang sudah kita tetapkan. Jika inputan berada diluar range angka, maka lakukan `looping` dan tampilkan pesan error sampai angka yang diinput sesuai.
-```java
-private static int validateInputNumber(Scanner scanner) {
-  int input = scanner.nextInt();
-  while (input < MINIMUM_NUMBER || input > MAXIMUM_NUMBER) {
-    System.out.printf("Input number must be between %s to %s. %n", MINIMUM_NUMBER, MAXIMUM_NUMBER);
-    input = scanner.nextInt();
+    }
   }
 
   return input;
-}
+  }
 ```
 
-6. Disini code utama kita. Menggunakan `looping` `do while()` untuk mendapatkan tebakan yang benar.  
+5. Disini code utama kita. Menggunakan `looping` `do while()` untuk mendapatkan tebakan yang benar.  
 Pertama kita panggil method untuk validasi input harus angka. Setelah itu kita panggil method validasi angka harus sesuai range yang kita tentukan.
 Kemudian kita lakukan pengecekan, jika angka yang diinput lebih besar atau lebih kecil dari angka random, tampilkan pesan.  
 Jika tebakan kita benar, tampilkan pesan beserta berapa kali percobaan yang kita lakukan.
@@ -83,7 +86,7 @@ do {
 } while (userInput != randomNumber);
 ```
 
-7. Jangan lupa di akhir code karena kita menggunakan `Scanner` jadi perlu di `close()`
+6. Jangan lupa di akhir code karena kita menggunakan `Scanner` jadi perlu di `close()`
 ```java
 scanner.close();
 ```
