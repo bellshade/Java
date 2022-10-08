@@ -12,7 +12,7 @@ Berbeda dengan tipe data yang biasa kita gunakan di class atau function, generic
 - S,U,V etc. - 2nd, 3rd, 4th types
 
 
-## contoh kode
+## Contoh Kode Generic Class
 ```java
 class Main {
     public class GenericClass<T> {
@@ -38,5 +38,24 @@ class Main {
         System.out.println(data1.getData());
         System.out.println(data2.getData());
     }
+}
+```
+
+## Contoh Kode Generic Method
+```java
+class Main {
+    public class GenericMethod {
+        public static <T> int arrayCount(T[] array) {
+            return array.length;
+        }
+    }
+
+    public static void main(String[] args) {
+        String[] events = {"Hacktoberfest", "Harbolnas", "PRJ"};
+        Integer[] numbers = {1, 2, 4, 8, 16};
+        
+        System.out.println(GenericMethod.arrayCount(events));
+        System.out.println(GenericMethod.<Integer>arrayCount(numbers));
+    } 
 }
 ```
