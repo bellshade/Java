@@ -1,4 +1,4 @@
-package learn.intermediate.JavaGeneric;
+package learn.intermediate.JavaGeneric.GenericClass;
 
 public class GenericClass<T> {
     private T data;
