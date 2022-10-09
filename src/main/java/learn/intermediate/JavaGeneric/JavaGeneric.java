@@ -1,6 +1,9 @@
 package learn.intermediate.JavaGeneric;
 
+import learn.intermediate.JavaGeneric.AbstractGenericClass.model.Baju;
+import learn.intermediate.JavaGeneric.AbstractGenericClass.model.Celana;
 import learn.intermediate.JavaGeneric.GenericClass.GenericClass;
+import learn.intermediate.JavaGeneric.GenericClassMultiParameter.GenericClassMultiParameter;
 import learn.intermediate.JavaGeneric.GenericMethod.GenericMethod;
 
 public class JavaGeneric {
@@ -26,5 +29,18 @@ public class JavaGeneric {
 
         // menampilkan panjang array dari numbers dengan explicit type arguments
         System.out.println(GenericMethod.<Integer>arrayCount(numbers));
+
+        
+        // Membuat objek `GenericClassMultiParameter` dimana T diinisiasi objek Baju dan K diinisiasi Integer
+        GenericClassMultiParameter<Baju,Integer> data3  =
+                new GenericClassMultiParameter<>(new Baju(26,72,59),6);
+        System.out.println("Data3 Objek bertipe data: " + data3.getDataObjek().getClass().getSimpleName());
+        System.out.println("Data3 key bertipe data: " + data3.getDataKey().getClass().getSimpleName());
+
+        // Membuat objek `GenericClassMultiParameter` dimana T diinisiasi objek Celana dan K diinisiasi String
+        GenericClassMultiParameter<Celana, String> data4  =
+                new GenericClassMultiParameter<>(new Celana(26,72,59),"Str6");
+        System.out.println("Data4 Objek bertipe data: " + data4.getDataObjek().getClass().getSimpleName());
+        System.out.println("Data4 key bertipe data: " + data4.getDataKey().getClass().getSimpleName());
     }
 }
