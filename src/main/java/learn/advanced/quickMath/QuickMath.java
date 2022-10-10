@@ -10,12 +10,11 @@ public class QuickMath {
         double phi = 3.14;
         int answer;
 
-
         // Mengacak nomor
         numberOne = (int) Math.round(Math.random() * 10);
         numberTwo = (int) Math.round(Math.random() * 10);
         int hasil = numberOne + numberTwo;
-
+        
         // Menampilkan soal
         System.out.println("Berapakah hasil dari " + numberOne + " + " + numberTwo + "?");
         startTime = System.currentTimeMillis();
@@ -28,11 +27,5 @@ public class QuickMath {
         } else {
             System.out.println("Jawaban anda salah!");
         }
-
-
-
-
-
-
     }
 }
