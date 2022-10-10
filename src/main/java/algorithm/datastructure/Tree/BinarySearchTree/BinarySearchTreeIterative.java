@@ -205,7 +205,7 @@ public class BinarySearchTreeIterative {
     Node temp = this.root;
     // cek jika node sudah ada
     while (temp != null) {
-      if (temp.data > daata) {
+      if (temp.data > data) {
         temp = temp.left;
       } else if (temp.data < data) {
         temp = temp.right;
