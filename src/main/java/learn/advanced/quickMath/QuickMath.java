@@ -1,4 +1,4 @@
-package learn.advanced.QuickMath;
+package learn.advanced.quickMath;
 import java.util.Scanner;
 public class QuickMath {
 
