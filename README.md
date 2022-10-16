@@ -12,7 +12,7 @@
 <!-- ![Visitor Badge](https://visitor-badges.glitch.me?username=bellshade&repo=Java&label=VISITOR&style=for-the-badge&color=%2344CC11&token=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&contentType=svg) -->
 [![Discord](https://img.shields.io/discord/722002048643497994?logo=discord&logoColor=white&style=for-the-badge)](http://discord.gg/S4rrXQU)
 
-![Java](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png)
+![Java](https://cdn.discordapp.com/attachments/921736002052161546/1031171653557821440/wp6599900-java-desktop-wallpapers.jpg)
 
 ## 🎉🎉 Selamat Datang di Java 🎉🎉
 
