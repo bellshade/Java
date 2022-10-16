@@ -4,10 +4,10 @@
 
 # Checklist:
 ##### Umum:
-- [ ] Saya menambah algoritma terbaru.
+- [ ] Saya menambahkan algoritma terbaru.
 - [ ] Saya memperbaiki algoritma yang sudah ada.
-- [ ] Saya memperbaiki dokumentasi.
-- [ ] Saya menambah dokumentasi.
+- [ ] Saya menambahkan dokumentasi.
+- [ ] Saya memperbaiki dokumentasi yang sudah ada.
 
 ##### Contributor Requirements (Syarat Kontributor) dan Lain-Lain:
  - [ ] Saya sudah membaca (I have read) [CONTRIBUTING](https://github.com/bellshade/Java/blob/main/CONTRIBUTING.md) dan sudah menyetujui semua syarat.
