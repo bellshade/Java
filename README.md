@@ -83,6 +83,7 @@ Jika kalian telah menguasai dasar-dasar pemrograman beserta dengan paradigma _Ob
 - [Lambda Expression](src/main/java/learn/intermediate/JavaLambdaExpressions) 
 - [Image Processing](src/main/java/learn/advanced/ImageProcessing/ColoredImageGrayScale/Programnya.java) 
 - [Java GUI](src/main/java/learn/advanced/JavaGUI)
+- [Enhanced Switch Statement](src/main/java/learn/advanced/EnhancedSwitchStatement)
 
 [COMING SOON](https://image.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_1017-26690.jpg)
 
