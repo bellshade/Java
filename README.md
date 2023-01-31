@@ -2,6 +2,9 @@
 
 ![Bellshade](https://github.com/bellshade/PHP/blob/main/assets/images/bellshade-inline.png)
 
+![License](https://img.shields.io/github/license/bellshade/javaAlgorithm?style=for-the-badge)
+![Code Factor](https://camo.githubusercontent.com/1f727bfd32cd983731b2d87366e39a346f90d90037b3cca39d757e786fa40f9b/68747470733a2f2f696d672e736869656c64732e696f2f636f6465666163746f722f67726164652f6769746875622f62656c6c73686164652f507974686f6e2f6d61696e3f6c6162656c3d636f6465253230666163746f72267374796c653d666f722d7468652d6261646765)
+
 > Part of Bellshade project. Managed by [WPU Discord Community](http://discord.gg/S4rrXQU). <br>
 > WPU Community is the fastest growing software developer forum initiated by [Mr. Sandhika Galih](https://www.youtube.com/webprogrammingunpas).
 
