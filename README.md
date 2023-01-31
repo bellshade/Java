@@ -5,10 +5,7 @@
 > Part of Bellshade project. Managed by [WPU Discord Community](http://discord.gg/S4rrXQU). <br>
 > WPU Community is the fastest growing software developer forum initiated by [Mr. Sandhika Galih](https://www.youtube.com/webprogrammingunpas).
 
-![License](https://img.shields.io/github/license/bellshade/javaAlgorithm?style=for-the-badge)
-![Java Testing](https://img.shields.io/github/workflow/status/bellshade/Java/build%20java?style=for-the-badge)
-![Code Quality](https://camo.githubusercontent.com/4886b1fdb05d416e7ba2339097fa8fe6da5613836b5f76f43fa80bfafcb993a1/68747470733a2f2f696d672e736869656c64732e696f2f6c67746d2f67726164652f707974686f6e2f6769746875622f62656c6c73686164652f507974686f6e416c676f726974686d3f6c6162656c3d436f64652532305175616c697479267374796c653d666f722d7468652d6261646765)
-![Code Factor](https://camo.githubusercontent.com/1f727bfd32cd983731b2d87366e39a346f90d90037b3cca39d757e786fa40f9b/68747470733a2f2f696d672e736869656c64732e696f2f636f6465666163746f722f67726164652f6769746875622f62656c6c73686164652f507974686f6e2f6d61696e3f6c6162656c3d636f6465253230666163746f72267374796c653d666f722d7468652d6261646765)
+
 <!-- ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=bellshade&repo=Java&label=VISITOR&style=for-the-badge&color=%2344CC11&token=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&contentType=svg) -->
 [![Discord](https://img.shields.io/discord/722002048643497994?logo=discord&logoColor=white&style=for-the-badge)](http://discord.gg/S4rrXQU)
 
