@@ -38,7 +38,7 @@ public class Kombinasi {
    * @param <T> jenis elemen dalam array
    */
   private static <T> void backtracking(
-    T[] arr;
+    T[] arr,
     int index,
     TreeSet<T> currSet,
     List<TreeSet<T>> result
