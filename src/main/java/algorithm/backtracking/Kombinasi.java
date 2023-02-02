@@ -16,7 +16,7 @@ public class Kombinasi {
    * @param <T> jenis elemen dalam array
    * @return daftar semua kombinasi panjang n. Jika n == 0, kembalikan 0
    */
-  public static <T> list<TreeSet<T>> combination(T[] arr, int n) {
+  public static <T> List<TreeSet<T>> combination(T[] arr, int n) {
     if (n == 0) {
       return  null;
     }
