@@ -1,4 +1,4 @@
-package algorith.Kombinasi;
+import algorithm.backtracking;
 
 import static org.junit.jupiter.api.Assertions.*;
 
