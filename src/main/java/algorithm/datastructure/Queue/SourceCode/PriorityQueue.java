@@ -13,7 +13,7 @@ package algorithm.datastructure.Queue.SourceCode;
 class PriorityQueue {
   private int maxSize;
   private int[] queueArray;
-  private intItems;
+  private int nItems;
   
   public PriorityQueue() {
     /* jika kapasitas tidak ditentukan, ukuran standar 11
