@@ -94,7 +94,7 @@ class PriorityQueue {
 
   public int remove() {
     if (isEmpty()) {
-      throw RuntimeException("queue kososng");
+      throw new RuntimeException("queue kososng");
     } else {
       int max = queueArray[1];
 
