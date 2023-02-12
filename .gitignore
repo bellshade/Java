@@ -3,6 +3,7 @@
 *.log
 *.sh
 out/
+bin/
 
 ### Maven ###
 target/
