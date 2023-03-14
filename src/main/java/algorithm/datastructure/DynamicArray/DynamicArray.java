@@ -10,8 +10,6 @@ import java.util.function.Consumer;
 import java.util.stream.Stream;
 import java.util.stream.StreamSupport;
 
-import jdk.dynalink.DynamicLinker;
-
 public class DynamicArray<E> implements Iterable<E> {
   private static final int KAPASITAS_DEFAULT = 16;
   private int kapasitas;
