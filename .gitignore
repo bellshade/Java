@@ -29,4 +29,5 @@ build/
 !**/src/test/**/build
 
 .setting
+.settings
 
