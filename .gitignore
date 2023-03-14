@@ -31,3 +31,8 @@ build/
 .setting
 .settings
 
+## ignore dari classpath factory path dan project
+.classpath
+.factorypath
+.project
+
