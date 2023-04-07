@@ -147,7 +147,12 @@ public class KDTree {
     public Node getNearChild(Point point) {
       if (
         point.getKoordinat(axis) < this.point.getKoordinat(axis)
-      ) return kiri; else return kanan;
+      ) {
+        return kiri; 
+      }
+      else {
+        return kanan;
+      }
     }
     
     public Node getFarChild(Point point) {
