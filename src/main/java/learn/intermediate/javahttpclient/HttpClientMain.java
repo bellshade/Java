@@ -4,6 +4,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import learn.intermediate.javahttpclient.dto.PokemonDetailResponse;
 import learn.intermediate.javahttpclient.services.RestClientService;
 import learn.intermediate.javahttpclient.services.RestClientServiceImpl;
+import learn.intermediate.javarecord.recorddto.PokemonRecordResponse;
 
 import java.net.http.HttpClient;
 import java.util.logging.Logger;
@@ -20,6 +21,10 @@ public class HttpClientMain {
 
         PokemonDetailResponse detailPokemon = restClientService.getDetailPokemon("1");
 
+        PokemonRecordResponse detailRecord = restClientService.getDetailRecord("1");
+
         log.info(detailPokemon.toString());
+
+        log.info(detailRecord.toString());
     }
 }
