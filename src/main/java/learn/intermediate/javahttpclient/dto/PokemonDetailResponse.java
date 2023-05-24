@@ -5,6 +5,10 @@ import java.util.List;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
+/**
+ * ini merupakan class DTO untuk response detail pokemon
+ * disini tidak menggunakan getter dan setter karna telah menggunakan anotasi @Data dari Lombok
+ */
 @Data
 public class PokemonDetailResponse {
 
