@@ -17,7 +17,7 @@ tipe data adalah value dengan jenis tertentu yang sangat berguna mempermudah dal
 
 - byte
 
-    byte adalah tipe data integer yang memiliki panjang value dari ``-128`` sampai ``127``. penggunaan byte bisa untuk nilai2 yang keil dikarenakan lebih hemat pada penggunanaan memori.
+    byte adalah tipe data integer yang memiliki panjang value dari ``-128`` sampai ``127``. penggunaan byte bisa untuk nilai2 yang kecil dikarenakan lebih hemat pada penggunanaan memori.
 
 - short
 
