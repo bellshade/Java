@@ -1,26 +1,32 @@
 package algorithm.conversions;
 
-// memanggil modul input
-import java.util.Scanner;
-
 public class BinaryToDecimal{
-  public static void main(String[] args){
-    // membuat input
-    Scanner input = new Scanner(System.in);
-    int BinaryNumber, BinCopy, d, s = 0, power = 0;
-    
-    System.out.print("masukkan angka biner: ");
-    BinaryNumber = input.nextInt();
+  private static final int BASE_BINER = 2;
+  
+  private BinaryToDecimal() {
 
-    // copy angka biner ke variabel baru
-    BinCopy = BinaryNumber;
-    
-    while(BinCopy != 0){
-      // BinCopy % 10 / 2
-      d = BinCopy % 10;
-      s += d * (int) Math.pow(2, power++);
-      BinCopy /= 10;
-    }
-    System.out.println("desimalnya: " + s);
   }
+
+  /**
+   * fungsi mengubah angka biner ke angka desimal
+   * 
+   * @param angkaBiner angka biner yang akan dikonversikan
+   * @return hasil dari konversi angka biner ke angka desimal
+   * @throws IllegalArgumentException ini terjadi jika angka biner tidak terdapat angka 0 atau 1
+   */
+
+   public static long binerKeDesimal(long angkaBiner) {
+    long valueDesimal = 0;
+    long pangkat = 0;
+    
+    while (angkaBiner != 0) {
+      long digit = angkaBiner % 10;
+      if (digit > 1) {
+        throw new IllegalArgumentException("angka biner tidak benar: " + digit);
+      }
+      valueDesimal += (long) (digit * Math.pow(BASE_BINER, pangkat++));
+      angkaBiner /= 10;
+    }
+    return valueDesimal;
+   }
 }

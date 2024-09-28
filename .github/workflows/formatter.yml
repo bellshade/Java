@@ -1,0 +1,17 @@
+name: formatter java
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: setting action
+      uses: actions/checkout@v4
+    - name: using formatter dari clang
+      uses: DoozyX/clang-format-lint-action@v0.18
+      with:
+        source: './src'
+        extensions: 'java'
+        clangFormatVersion: 16
