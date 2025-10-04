@@ -86,6 +86,18 @@ Jika kalian telah menguasai dasar-dasar pemrograman beserta dengan paradigma _Ob
 
 [COMING SOON](https://image.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_1017-26690.jpg)
 
+### ⚡ Quick Access ⚡
+
+Semua _source code_ yang ada di repositori ini dapat kalian akses dengan cepat melalui link berikut.
+
+- [Java Basic](src/main/java/learn/basic)
+- [Lanjutan Java (Intermediate)](src/main/java/learn/intermediate)
+- [Lanjutan Java (Advanced)](src/main/java/learn/advanced)
+- [Algoritma Java](src/main/java/algorithm)
+- [Struktur Data Java](src/main/java/algorithm/datastructure)
+- [Utilitas pada Java](src/main/java/utilities)
+- [Java Object-Oriented Programming](src/main/java/learn/intermediate/object_oriented_programming)
+
 ## 📃 Panduan Penggunaan 📃
 
 Terdapat beberapa cara untuk meng-_compile_ program Java di _project_ ini. Kalian dapat menggunakan IDE (_Integrated Development Environment_) seperti [NetBeans](https://netbeans.apache.org/), [Eclipse](https://www.eclipse.org/eclipseide/), dsb. Selain itu, kalian juga dapat menggunakan _code editor_ seperti [VS Code](https://code.visualstudio.com/) (Visual Studio Code) dengan menambahkan _extensions_ tertentu.
@@ -133,17 +145,6 @@ Untuk tutorial lebih detail tentang VS Code untuk Java, kalian dapat mengunjungi
 
 Kalian dapat menjalankan program Java dengan cara klik kanan _file_ dengan ekstensi `.java` setelah itu klik `Run Java`.
 
-## ⚡ Quick Access ⚡
-
-Semua _source code_ yang ada di repositori ini dapat kalian akses dengan cepat melalui link berikut.
-
-- [Java Basic](src/main/java/learn/basic)
-- [Lanjutan Java (Intermediate)](src/main/java/learn/intermediate)
-- [Lanjutan Java (Advanced)](src/main/java/learn/advanced)
-- [Algoritma Java](src/main/java/algorithm)
-- [Struktur Data Java](src/main/java/algorithm/datastructure)
-- [Utilitas pada Java](src/main/java/utilities)
-- [Java Object-Oriented Programming](src/main/java/learn/intermediate/object_oriented_programming)
 
 ## 🤩 Ayo Ikut Kami dan Berkontribusi! 🤩
 
@@ -155,6 +156,6 @@ Kami sangat senang bila kalian ingin berkontribusi di repositori **Java** ini. S
 
 Dan jika ingin berdonasi bisa [di sini](https://saweria.co/bellshade) ya!
 
-Untuk informasi lebih lanjut, bergabunglah dengan komunitas kami di [Discord WPU](http://discord.gg/S4rrXQU).
+Untuk informasi lebih lanjut, bergabunglah dengan komunitas kami di [Discord WPU](http://discord.gg/S4rrXQU) atau [Discord Kelas Terbuka](https://discord.gg/eqE3Hb6e). 
 
 #SalamBellshade #BellshadeMembuatkuJagoNgoding
