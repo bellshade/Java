@@ -99,7 +99,10 @@ git push origin <branch_name_yang_kamu_buat>
 - `docs:` untuk mengubah atau membuat dokumentasi
 - `add:` untuk mengubah algoritma atau tambahan lainnya (opsional)
 
+Untuk informasi tambahan mengenai penamaan commit kamu bisa cek disini [Dokumentasi Konvensional](https://www.conventionalcommits.org/id/v1.0.0/)
+
 > Untuk dokumentasi disarankan untuk tidak menggunakan nama dokumentasi
+
 
 _Pull Request (PR)_ `merged` jika:
 
